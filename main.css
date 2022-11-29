@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    
+}
+.map_main {
+    height: 100vh; 
+    width: 100vw;
+}
+.start {
+    width: 100vw;
+    height: 60vh;
+    padding-top: 40vh;     
+    background-size: cover;
+    background-position: center center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #dddddd;
+    color: #297CD3;
+    text-align: center;
+    letter-spacing: 0.3px;
+}
+
+/* ---- */
+
+.map_contribute {
+    height: 100vh;
+    width: calc(100vw - 440px);
+    position: fixed;
+    right: 0;
+}
+
+.contribute{
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+.contribute{
+    background-color: #202020;
+    color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: fixed;
+    width: 400px;
+    max-width: calc(100vw - 40px);
+    height: 100vh;
+    top: 0;
+    left: 0;
+    padding: 20px;    
+    white-space: normal;
+}
+.contribute h2{
+    margin: 10px 0;
+}
+
+.place{
+    z-index: 1;
+    animation: gui 0.8s ease;
+}
+.thanks{
+    z-index: 2;
+    text-align: center;
+}
+
+.about {
+    display: block;
+	background-color: #001f3a;
+    border: 2px solid #2674c6;
+    color: #2674c6;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.pos{
+    background-color: #1f1f1f;
+    border: 2px solid #4f474e61;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+
+    width: 150px;
+    display: inline-block;
+}
+.hr{
+	background-color: #868686;
+	border-radius: 2px;
+	height: 2px;
+}
+
+.link{
+	color : #fff;
+    cursor: pointer;
+	border-bottom:0px solid #0000;
+	transition:all .2s;
+}
+.link:hover{
+	border-bottom:2px solid #fff;
+	transition:all .2s;
+}
+button span {
+	font-size:16px;
+	top:2px;
+}
+button{
+	height: 42px;
+	width: 100%;
+	border-radius: 10px;
+	outline: 0;
+	text-align: center;
+	cursor: pointer;
+	color: #fff;
+
+	border: 2px solid #4f474e00;
+
+	margin-bottom: 1px;
+	display:block;
+}
+button:active, button:active{
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+button:hover, button:active, button:focus{
+	border: 2px solid #4f474e61;
+}
+
+.list{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin-top: 10px;
+    height: calc(100vh - 110px);
+}
+
+.overmouse{
+	color: #fff;
+	text-decoration: none;
+	position: initial;
+	padding: 10px;
+	display: block;
+	border-radius: 10px;
+	transition: background-color 250ms;
+	cursor: pointer;
+}
+.overmouse{
+	background-color: #fff0;
+}
+.overmouse:hover{
+	background-color: #0063aa40;
+}
+
+
+/* --- */
+
+@keyframes gui {
+	0% {
+		left: -440px;
+	}
+	100% {
+		left: 0;
+	}
+}
+
+@keyframes thanks {
+	0% {
+		left: -440px;
+	}
+	33% {
+		left: 0;
+	}
+    66% {
+		left: 0;
+	}
+    100% {
+		left: -440px;
+	}
+}

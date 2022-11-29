@@ -1,0 +1,1434 @@
+{
+    "stop_points": [
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Annot",
+                "coord": {
+                    "lat": "43.96553",
+                    "lon": "6.6679"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bastia",
+                "coord": {
+                    "lat": "42.6999",
+                    "lon": "9.44988"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Calvi",
+                "coord": {
+                    "lat": "42.56422902763096",
+                    "lon": "8.755781650543215"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Colomars",
+                "coord": {
+                    "lat": "43.76363067625155",
+                    "lon": "7.204622626304627"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Corte",
+                "coord": {
+                    "lat": "42.305114260021675",
+                    "lon": "9.155623912811281"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Digne",
+                "coord": {
+                    "lat": "44.08137344290068",
+                    "lon": "6.233453750610352"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Ajaccio",
+                "coord": {
+                    "lat": "41.92777902833369",
+                    "lon": "8.73917877674103"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Ponte-Leccia",
+                "coord": {
+                    "lat": "42.46453495348975",
+                    "lon": "9.206392765045168"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Andr\u00e9-les-Alpes",
+                "coord": {
+                    "lat": "43.96812",
+                    "lon": "6.50731"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Pertuis",
+                "coord": {
+                    "lat": "43.68355985815267",
+                    "lon": "5.503817796707153"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rueil-Malmaison",
+                "coord": {
+                    "lat": "48.88689442838321",
+                    "lon": "2.1722406148910527"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St R\u00e9my l\u00e8s Chevreuse",
+                "coord": {
+                    "lat": "48.70287321632956",
+                    "lon": "2.073310017585755"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Nom-la-Bret\u00e8che",
+                "coord": {
+                    "lat": "48.86798773220111",
+                    "lon": "2.052077651023865"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Gervais-les-Bains",
+                "coord": {
+                    "lat": "45.90616399622159",
+                    "lon": "6.701048612594605"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Volx",
+                "coord": {
+                    "lat": "43.8694627757935",
+                    "lon": "5.8480310440063485"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Quentin-en-Yvelines",
+                "coord": {
+                    "lat": "48.78519",
+                    "lon": "2.04575"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Salon-de-Provence",
+                "coord": {
+                    "lat": "43.63891508680954",
+                    "lon": "5.0890517234802255"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Nantes-\u00c9tat",
+                "coord": {
+                    "lat": "47.2020583836634",
+                    "lon": "-1.5636634826660156"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Paimb\u0153uf",
+                "coord": {
+                    "lat": "47.28607965595058",
+                    "lon": "-2.0274549722671513"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Nice Sud-CP",
+                "coord": {
+                    "lat": "43.709018581100786",
+                    "lon": "7.260047793388368"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Antwerpen Centraal",
+                "coord": {
+                    "lat": "51.21632981040425",
+                    "lon": "4.420570135116578"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Antwerpen Centraal",
+                "coord": {
+                    "lat": "51.21632981040425",
+                    "lon": "4.420570135116578"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bruxelles-Midi",
+                "coord": {
+                    "lat": "50.840405476119564",
+                    "lon": "4.346637725830079"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Antwerpen-Berchem",
+                "coord": {
+                    "lat": "51.19948943890053",
+                    "lon": "4.43319797548611"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Antwerpen-Berchem",
+                "coord": {
+                    "lat": "51.19941495293344",
+                    "lon": "4.432784914970399"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Figueras - Vilafant",
+                "coord": {
+                    "lat": "42.25912758321882",
+                    "lon": "2.9485845565795903"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Figueras",
+                "coord": {
+                    "lat": "42.26057274305397",
+                    "lon": "2.96931266784668"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Portbou",
+                "coord": {
+                    "lat": "42.42604533603557",
+                    "lon": "3.1614875793457036"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Antwerpen-Noorderdokken",
+                "coord": {
+                    "lat": "51.261559026128",
+                    "lon": "4.42776381969452"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "A\u00e9roport Charles de Gaulle \u2708",
+                "coord": {
+                    "lat": "49.005321069248794",
+                    "lon": "2.570629119873047"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Antwerpen-Noorderdokken",
+                "coord": {
+                    "lat": "51.261391182267865",
+                    "lon": "4.428037405014039"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Auteuil-Boulogne",
+                "coord": {
+                    "lat": "48.84806958675925",
+                    "lon": "2.26644515991211"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bruxelles-A\u00e9roport-Zaventem \u2708",
+                "coord": {
+                    "lat": "50.89828797864432",
+                    "lon": "4.484039783019399"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bruxelles-A\u00e9roport-Zaventem \u2708",
+                "coord": {
+                    "lat": "50.89845880625804",
+                    "lon": "4.482287764549256"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bruxelles-Luxembourg",
+                "coord": {
+                    "lat": "50.83866086200175",
+                    "lon": "4.373910427093507"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bruxelles-Luxembourg",
+                "coord": {
+                    "lat": "50.83761417614937",
+                    "lon": "4.3743760585130085"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bruxelles-Nord",
+                "coord": {
+                    "lat": "50.86043168280903",
+                    "lon": "4.361636638641358"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bruxelles-Nord",
+                "coord": {
+                    "lat": "50.86015063708566",
+                    "lon": "4.361534714698792"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Kontich-Lint",
+                "coord": {
+                    "lat": "51.13394205030947",
+                    "lon": "4.476740956306458"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Kontich-Lint",
+                "coord": {
+                    "lat": "51.133824233768486",
+                    "lon": "4.476746320724488"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Kortrijk",
+                "coord": {
+                    "lat": "50.824386452826644",
+                    "lon": "3.2643663883209233"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Kortrijk",
+                "coord": {
+                    "lat": "50.82616525847113",
+                    "lon": "3.265404939520522"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Mechelen",
+                "coord": {
+                    "lat": "51.01769979041976",
+                    "lon": "4.483746886253358"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Mechelen",
+                "coord": {
+                    "lat": "51.0171445589027",
+                    "lon": "4.483632087576553"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Mechelen-Nekkerspoel",
+                "coord": {
+                    "lat": "51.030339504730925",
+                    "lon": "4.490044713020326"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Mechelen-Nekkerspoel",
+                "coord": {
+                    "lat": "51.030275376887815",
+                    "lon": "4.490237703580858"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Namur",
+                "coord": {
+                    "lat": "50.468387197479444",
+                    "lon": "4.862898588180543"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Namur",
+                "coord": {
+                    "lat": "50.469191404644896",
+                    "lon": "4.86280525159836"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Schaerbeek",
+                "coord": {
+                    "lat": "50.87855386150473",
+                    "lon": "4.378893971443177"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Schaerbeek",
+                "coord": {
+                    "lat": "50.878455703167525",
+                    "lon": "4.378480911254884"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Schiphol Airport \u2708",
+                "coord": {
+                    "lat": "52.30875413092429",
+                    "lon": "4.762551784515382"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Schiphol Airport \u2708",
+                "coord": {
+                    "lat": "52.308909873843064",
+                    "lon": "4.7615536493969035"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rotterdam-Lombardijen",
+                "coord": {
+                    "lat": "51.88036888627656",
+                    "lon": "4.531463384628297"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rotterdam-Lombardijen",
+                "coord": {
+                    "lat": "51.88049472251388",
+                    "lon": "4.53188180923462"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rotterdam Zuid",
+                "coord": {
+                    "lat": "51.904757974461",
+                    "lon": "4.510434865951539"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rotterdam Zuid",
+                "coord": {
+                    "lat": "51.90491021984195",
+                    "lon": "4.510391950607301"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "M\u00e9zidon",
+                "coord": {
+                    "lat": "49.07058708878435",
+                    "lon": "-0.07521986961364747"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rotterdam Centraal",
+                "coord": {
+                    "lat": "51.9247733991879",
+                    "lon": "4.46971356868744"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Nanterre Pr\u00e9fecture",
+                "coord": {
+                    "lat": "48.896359203533734",
+                    "lon": "2.2233581542968754"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Paris Orsay",
+                "coord": {
+                    "lat": "48.86050104862008",
+                    "lon": "2.3318696022033696"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rotterdam Centraal",
+                "coord": {
+                    "lat": "51.925131100189546",
+                    "lon": "4.469010829925538"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Paris Luxembourg",
+                "coord": {
+                    "lat": "48.83507714077325",
+                    "lon": "2.349958419799805"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Roosendaal",
+                "coord": {
+                    "lat": "51.54001616358327",
+                    "lon": "4.459671378135682"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Roosendaal",
+                "coord": {
+                    "lat": "51.54031978369006",
+                    "lon": "4.45847511291504"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Robinson",
+                "coord": {
+                    "lat": "48.7794593122523",
+                    "lon": "2.2810900211334233"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Orsay-Ville",
+                "coord": {
+                    "lat": "48.69938059508856",
+                    "lon": "2.1887346800995027"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "M\u00e2con TGV",
+                "coord": {
+                    "lat": "46.28312282906117",
+                    "lon": "4.779106378555299"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Lage Zwaluwe",
+                "coord": {
+                    "lat": "51.69039642747925",
+                    "lon": "4.6643292903900155"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Lage Zwaluwe",
+                "coord": {
+                    "lat": "51.68977788780504",
+                    "lon": "4.663787484169007"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Les Aubrais - Orl\u00e9ans",
+                "coord": {
+                    "lat": "47.92726704345671",
+                    "lon": "1.9058918952941897"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Dordrecht",
+                "coord": {
+                    "lat": "51.807948076835906",
+                    "lon": "4.668690562248231"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Dordrecht",
+                "coord": {
+                    "lat": "51.80744060108279",
+                    "lon": "4.669387936592103"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Den Haag HS",
+                "coord": {
+                    "lat": "52.069522187747694",
+                    "lon": "4.321435689926148"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Den Haag HS",
+                "coord": {
+                    "lat": "52.06910010142402",
+                    "lon": "4.323227405548097"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Le Creusot TGV",
+                "coord": {
+                    "lat": "46.765290915299765",
+                    "lon": "4.499480724334718"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Germain-en-Laye",
+                "coord": {
+                    "lat": "48.899242191501166",
+                    "lon": "2.0954650640487675"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Amsterdam Centraal",
+                "coord": {
+                    "lat": "52.37878224866535",
+                    "lon": "4.901345372200013"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Amsterdam Centraal",
+                "coord": {
+                    "lat": "52.379024571909234",
+                    "lon": "4.901892542839051"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Sucy-Bonneuil",
+                "coord": {
+                    "lat": "48.76994060438018",
+                    "lon": "2.5092816352844243"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Barendrecht",
+                "coord": {
+                    "lat": "51.855522578037785",
+                    "lon": "4.55336093902588"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Barendrecht",
+                "coord": {
+                    "lat": "51.85528733210107",
+                    "lon": "4.554128050804139"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Kleinbettingen",
+                "coord": {
+                    "lat": "49.643488229639374",
+                    "lon": "5.916883349418641"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Kleinbettingen",
+                "coord": {
+                    "lat": "49.643568124313994",
+                    "lon": "5.916861891746522"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Monaco Monte-Carlo",
+                "coord": {
+                    "lat": "43.73837538178912",
+                    "lon": "7.419655323028565"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Peterborough",
+                "coord": {
+                    "lat": "52.575595246401434",
+                    "lon": "-0.2490699291229248"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Monaco Monte-Carlo",
+                "coord": {
+                    "lat": "43.738623433423015",
+                    "lon": "7.420234680175782"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Maixent",
+                "coord": {
+                    "lat": "46.40574223027554",
+                    "lon": "-0.20011961460113528"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Valence TGV",
+                "coord": {
+                    "lat": "44.991859481924564",
+                    "lon": "4.9788236618042"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Hilaire-au-Temple",
+                "coord": {
+                    "lat": "49.05370473792908",
+                    "lon": "4.385225237674702"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Merrey",
+                "coord": {
+                    "lat": "48.05399917736979",
+                    "lon": "5.593457221984864"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Paris Nation",
+                "coord": {
+                    "lat": "48.838946982533514",
+                    "lon": "2.401800155639649"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Massy",
+                "coord": {
+                    "lat": "48.726118915524154",
+                    "lon": "2.2647285461425786"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Lyon St Exup\u00e9ry \u2708",
+                "coord": {
+                    "lat": "45.72013392728097",
+                    "lon": "5.077856183052064"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Laqueuille",
+                "coord": {
+                    "lat": "45.64374062865413",
+                    "lon": "2.7035593986511235"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Issy Plaine\/Val-de-Seine",
+                "coord": {
+                    "lat": "48.82951018807453",
+                    "lon": "2.2648036479949956"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Facture-Biganos",
+                "coord": {
+                    "lat": "44.640283325185756",
+                    "lon": "-0.9590871031951843"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Grenoble-Gi\u00e8res",
+                "coord": {
+                    "lat": "45.18322788543808",
+                    "lon": "5.78582525253296"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Eygurande-Merlines",
+                "coord": {
+                    "lat": "45.645657029615535",
+                    "lon": "2.4625039100646977"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Ch\u00e2telet - Les Halles",
+                "coord": {
+                    "lat": "48.85817876694892",
+                    "lon": "2.3478555679321294"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Ch\u00e2teaulin-Embranchement",
+                "coord": {
+                    "lat": "48.20156079446675",
+                    "lon": "-4.0944886207580575"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bonn\u00e9table",
+                "coord": {
+                    "lat": "48.17367542584529",
+                    "lon": "0.42007684707641607"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Boissy St L\u00e9ger",
+                "coord": {
+                    "lat": "48.75255126793502",
+                    "lon": "2.504941821098328"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Auber",
+                "coord": {
+                    "lat": "48.87239",
+                    "lon": "2.32948"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Irun",
+                "coord": {
+                    "lat": "43.34092206622109",
+                    "lon": "-1.7957818508148196"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Aix-les-Bains",
+                "coord": {
+                    "lat": "45.68803",
+                    "lon": "5.91462"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "La Chapelle-sur-Erdre",
+                "coord": {
+                    "lat": "47.2969442645599",
+                    "lon": "-1.5465778112411501"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Amb\u00e9rieu",
+                "coord": {
+                    "lat": "45.953048085004504",
+                    "lon": "5.347552299499513"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Massiac",
+                "coord": {
+                    "lat": "45.255687446834045",
+                    "lon": "3.1987380981445317"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Vitrolles-A\u00e9roport-Marseille-Provence \u2708",
+                "coord": {
+                    "lat": "43.44071504783106",
+                    "lon": "5.237361788749696"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Girona",
+                "coord": {
+                    "lat": "41.97905550853738",
+                    "lon": "2.8166252374649052"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Charles de Gaulle - \u00c9toile",
+                "coord": {
+                    "lat": "48.87121461849421",
+                    "lon": "2.30215072631836"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Champ de Mars",
+                "coord": {
+                    "lat": "48.85700523257262",
+                    "lon": "2.2911161184310918"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St-Germain Grande Ceinture",
+                "coord": {
+                    "lat": "48.90334509314771",
+                    "lon": "2.0749461650848393"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Toulouse-St-Cyprien-Ar\u00e8nes",
+                "coord": {
+                    "lat": "43.59410502372916",
+                    "lon": "1.4170807600021365"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Toulouse-St-Agne",
+                "coord": {
+                    "lat": "43.580144092421776",
+                    "lon": "1.451048254966736"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "St Jean de Maurienne",
+                "coord": {
+                    "lat": "45.27797239451975",
+                    "lon": "6.355220675468445"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "La V\u00e9subie\u2013Plan-du-Var",
+                "coord": {
+                    "lat": "43.85747094609931",
+                    "lon": "7.1965277194976816"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Dover",
+                "coord": {
+                    "lat": "51.12501086900424",
+                    "lon": "1.3054096698760989"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Folkestone",
+                "coord": {
+                    "lat": "51.08282691647132",
+                    "lon": "1.1683917045593264"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "York",
+                "coord": {
+                    "lat": "53.957706337179424",
+                    "lon": "-1.0933488607406618"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Torino Porta Nuova",
+                "coord": {
+                    "lat": "45.05698587401672",
+                    "lon": "7.693090438842774"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Torino Porta Susa",
+                "coord": {
+                    "lat": "45.07178930641987",
+                    "lon": "7.667952775955201"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Torino Stura",
+                "coord": {
+                    "lat": "45.12269110678819",
+                    "lon": "7.715020179748536"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Ventimiglia",
+                "coord": {
+                    "lat": "43.78887144079869",
+                    "lon": "7.614362239837647"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Pont de Rungis \/ A\u00e9roport d\u2019Orly \u2708",
+                "coord": {
+                    "lat": "48.74799209111087",
+                    "lon": "2.3741358518600464"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Voghera",
+                "coord": {
+                    "lat": "44.99800882927148",
+                    "lon": "9.007260203361513"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Vercelli",
+                "coord": {
+                    "lat": "45.329353912677206",
+                    "lon": "8.417608737945558"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Rho",
+                "coord": {
+                    "lat": "45.523985808299884",
+                    "lon": "9.043486118316652"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Bardonecchia",
+                "coord": {
+                    "lat": "45.076704340400994",
+                    "lon": "6.710945963859559"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Savona",
+                "coord": {
+                    "lat": "44.30690016435605",
+                    "lon": "8.472116589546205"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Laigueglia",
+                "coord": {
+                    "lat": "43.981279841695994",
+                    "lon": "8.158700466156008"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London King\u2019s Cross",
+                "coord": {
+                    "lat": "47",
+                    "lon": "1"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London King\u2019s Cross",
+                "coord": {
+                    "lat": "51.52829020697341",
+                    "lon": "-0.11758804321289064"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London St Pancras",
+                "coord": {
+                    "lat": "51.53173911869085",
+                    "lon": "-0.12551879830425608"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London Blackfriars",
+                "coord": {
+                    "lat": "51.510272557311175",
+                    "lon": "-0.10030174307757991"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London Bridge",
+                "coord": {
+                    "lat": "51.50517904629381",
+                    "lon": "-0.0847889184296946"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London Euston",
+                "coord": {
+                    "lat": "51.5296918746746",
+                    "lon": "-0.13490438461303714"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London Euston",
+                "coord": {
+                    "lat": "51.5294575543923",
+                    "lon": "-0.13331222507986243"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London King\u2019s Cross",
+                "coord": {
+                    "lat": "51.53210345337247",
+                    "lon": "-0.12394487857818605"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London Victoria",
+                "coord": {
+                    "lat": "51.49437672813945",
+                    "lon": "-0.14150261878967288"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London Waterloo",
+                "coord": {
+                    "lat": "51.50234489166332",
+                    "lon": "-0.11538863182067872"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "London King\u2019s Cross",
+                "coord": {
+                    "lat": "51.533029005037584",
+                    "lon": "-0.12147188186645509"
+                }
+            }
+        },
+        {
+            "stop_point": {
+                "uic_code": "105",
+                "name": "Paris Bastille",
+                "coord": {
+                    "lat": "48.853138550976446",
+                    "lon": "2.3672962188720708"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+
+# Deny access to .htaccess
+<Files "^\.">
+Order allow,deny
+Deny from all
+</Files>
+
+# Disable directory browsing 
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Message d'erreur
+ErrorDocument 400 /err/400.php
+ErrorDocument 401 /err/401.php
+ErrorDocument 403 /err/403.php
+ErrorDocument 404 /err/404.php     
+ErrorDocument 500 /err/500.php
+ErrorDocument 502 /err/502.php
+ErrorDocument 503 /err/503.php

@@ -1,0 +1,1674 @@
+Depart;Arrivee;Distance;Tensions;Gabarit;Commentaire;Exploitee
+Bordeaux St-Jean;Paris Austerlitz;584 km;1.5kVcc;Gabarit continental;;
+Paris Austerlitz;Juvisy;19 km;1.5kVcc;Gabarit continental;;X
+Juvisy;Paris Gare de Lyon;21 km;1.5kVcc;Gabarit continental;;
+St Pierre des Corps;Tours;4 km;1.5kVcc;Gabarit continental;;X
+Bordeaux St-Jean;St Pierre des Corps;351 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Agen;135 km;1.5kVcc;Gabarit continental;;X
+Agen;Montauban-Ville-Bourbon;70 km;1.5kVcc;Gabarit continental;;X
+Montauban-Ville-Bourbon;Toulouse-Matabiau;51 km;1.5kVcc;Gabarit continental;;X
+Bordeaux St-Jean;Toulouse-Matabiau;256 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Lyon Perrache;511 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Laroche-Migennes;155 km;1.5kVcc;Gabarit continental;;
+Paris Montparnasse;Massy;14 km;1.5kVcc;Gabarit continental;;
+Paris Austerlitz;Massy;26 km;1.5kVcc;Gabarit continental;;
+Paris Austerlitz;Les Aubrais - Orléans;119 km;1.5kVcc;Gabarit continental;;X
+St Pierre des Corps;Les Aubrais - Orléans;114 km;1.5kVcc;Gabarit continental;;
+Les Aubrais - Orléans;Vierzon-Ville;82 km;1.5kVcc;Gabarit continental;;X
+Vierzon-Ville;Limoges-Bénédictins;200 km;1.5kVcc;Gabarit continental;;X
+Limoges-Bénédictins;Brive-la-Gaillarde;99 km;1.5kVcc;Gabarit continental;;X
+Montauban-Ville-Bourbon;Brive-la-Gaillarde;164 km;1.5kVcc;Gabarit continental;;X
+Paris Austerlitz;Toulouse-Matabiau;713 km;1.5kVcc;Gabarit continental;;
+Paris Nord;Lille Flandres;251 km;25kVac;Gabarit continental;;
+Lille Flandres;Bruxelles-Midi;109 km;3kVcc & 25kVac;Gabarit continental;;
+Paris Nord;Lille-Europe;251 km;25kVac;Gabarit continental;;
+Lille-Europe;Bruxelles-Midi;109 km;3kVcc & 25kVac;Gabarit continental;;
+Paris Est;Strasbourg-Ville;502 km;25kVac;Gabarit continental;;
+Paris Nord;Aulnay sous Bois;14 km;25kVac;Gabarit continental;;
+Aulnay sous Bois;Bondy;8 km;25kVac;Gabarit continental;;X
+Paris Est;Bondy;10 km;25kVac;Gabarit continental;;
+Paris Nord;Ermont-Eaubonne;14 km;25kVac;Gabarit continental;;
+Ermont-Eaubonne;Paris St-Lazare;14 km;25kVac;Gabarit continental;;X
+Paris St-Lazare;Chaville Rive-Droite;18 km;25kVac;Gabarit continental;;
+Chaville Rive-Droite;Versailles-Chantiers;4 km;25kVac;Gabarit continental;;X
+Paris Montparnasse;Versailles-Chantiers;17 km;1.5kVcc;Gabarit continental;;X
+Juvisy;Massy;17 km;1.5kVcc;Gabarit continental;;X
+Paris St-Lazare;Rouen Rive Droite;140 km;25kVac;Gabarit continental;;X
+Bruxelles-Midi;Amsterdam Centraal;250 km;1.5kVcc & 3kVcc;Gabarit continental;;
+Paris Nord;Dunkerque;305 km;25kVac;Gabarit continental;;
+Bordeaux St-Jean;Arcachon;58 km;1.5kVcc;Gabarit continental;;
+Dover;Faversham;41 km;750Vcc 3eme rail;Gabarit britannique;;
+Faversham;London Victoria;84 km;750Vcc 3eme rail;Gabarit britannique;;
+Dover;London Victoria;125 km;750Vcc 3eme rail;Gabarit britannique;;
+Lyon Perrache;Ambérieu;51 km;1.5kVcc;Gabarit continental;;X
+Ambérieu;Culoz;50 km;1.5kVcc;Gabarit continental;;X
+Culoz;Chambéry-Challes les Eaux;36 km;1.5kVcc;Gabarit continental;;
+Chambéry-Challes les Eaux;St Jean de Maurienne;70 km;1.5kVcc;Gabarit continental;;
+St Jean de Maurienne;Modane;28 km;1.5kVcc;Gabarit continental;;X
+London Waterloo;Clapham Junction;6 km;750Vcc 3eme rail;Gabarit britannique;;
+London Victoria;Clapham Junction;5 km;750Vcc 3eme rail;Gabarit britannique;;
+Lille Flandres;Calais-Ville;105 km;25kVac;Gabarit continental;;
+Calais-Ville;Calais-Fréthun;8 km;25kVac;Gabarit continental;;X
+Calais-Fréthun;Folkestone;52 km;Aptitude tunnel sous la Manche;Gabarit continental;;
+London Waterloo;Folkestone;110 km;750Vcc 3eme rail;Gabarit britannique;;
+London Waterloo;London Bridge;2 km;750Vcc 3eme rail;Gabarit britannique;;
+London Bridge;London Blackfriars;2 km;750Vcc 3eme rail;Gabarit britannique;;
+London St Pancras;London Blackfriars;3 km;750Vcc 3eme rail;Gabarit britannique;;
+Strasbourg-Ville;Bâle-CFF/SNCF;142 km;25kVac;Gabarit continental;;
+Lyon Perrache;Genève-Cornavin;168 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Hendaye;233 km;1.5kVcc;Gabarit continental;;X
+Paris Gare de Lyon;Genève-Cornavin;668 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Périgueux;128 km;Non-electrifie;Gabarit continental;;
+Limoges-Bénédictins;Périgueux;99 km;Non-electrifie;Gabarit continental;;
+Bordeaux St-Jean;Limoges-Bénédictins;227 km;Non-electrifie;Gabarit continental;;
+Lille Flandres;Dunkerque;89 km;25kVac;Gabarit continental;;
+Dunkerque;Calais-Ville;46 km;25kVac;Gabarit continental;;
+Agen;Périgueux;153 km;Non-electrifie;Gabarit continental;;
+Toulouse-Matabiau;Montpellier St Roch;247 km;1.5kVcc;Gabarit continental;;
+Strasbourg-Ville;Kehl;8 km;15kVac & 25kVac;Gabarit continental;;
+Paris Montparnasse;Chartres;87 km;1.5kVcc;Gabarit continental;;X
+Chartres;Le Mans;124 km;1.5kVcc;Gabarit continental;;
+Paris Montparnasse;Le Mans;211 km;1.5kVcc;Gabarit continental;;
+Lyon Perrache;Valence-Ville;106 km;1.5kVcc;Gabarit continental;;
+Valence-Ville;Avignon-Centre;124 km;1.5kVcc;Gabarit continental;;X
+Avignon-Centre;Marseille St Charles;121 km;1.5kVcc;Gabarit continental;;X
+Lyon Perrache;Marseille St Charles;351 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Marseille St Charles;862 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Marne-la-Vallée - Chessy;34 km;1.5kVcc;Gabarit continental;;
+Paris Nord;Aéroport Charles de Gaulle;29 km;25kVac;Gabarit continental;;
+Aulnay sous Bois;Aéroport Charles de Gaulle;15 km;25kVac;Gabarit continental;;X
+Hendaye;Irun;2 km;1.5kVcc;Gabarit continental;Ligne SNCF;
+Hendaye;Irun;2 km;1.5kVcc;Ecartement metrique;Euskotren;
+Le Mans;Angers St-Laud;98 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Angers St-Laud;Nantes;87 km;25kVac;Gabarit continental;;X
+Nantes;Clisson;26 km;25kVac;Gabarit continental;;X
+Clisson;La Roche sur Yon;50 km;25kVac;Gabarit continental;;
+Nantes;La Roche sur Yon;76 km;25kVac;Gabarit continental;;
+Paris Nord;Creil;50 km;25kVac;Gabarit continental;;X
+Le Mans;Laval;89 km;25kVac;Gabarit continental;;
+Nantes;St Nazaire;66 km;25kVac;Gabarit continental;;X
+Laval;Vitré;36 km;25kVac;Gabarit continental;;
+Vitré;Rennes;73 km;25kVac;Gabarit continental;;
+Le Mans;Rennes;145 km;25kVac;Gabarit continental;;
+Tours;Angers St-Laud;111 km;1.5kVcc & 25kVac;Gabarit continental;;
+St Pierre des Corps;Angers St-Laud;109 km;1.5kVcc & 25kVac;Gabarit continental;;
+Nantes;Redon;81 km;25kVac;Gabarit continental;;
+Rennes;Redon;71 km;25kVac;Gabarit continental;;
+Nantes;Rennes;152 km;25kVac;Gabarit continental;;
+Strasbourg-Ville;Mulhouse;108 km;25kVac;Gabarit continental;;X
+Bâle-CFF/SNCF;Mulhouse;34 km;25kVac;Gabarit continental;;X
+Montpellier St Roch;Nîmes;50 km;1.5kVcc;Gabarit continental;;X
+Paris Austerlitz;Paris Orsay;4 km;1.5kVcc;Gabarit continental;;
+Marseille St Charles;Nîmes;155 km;1.5kVcc;Gabarit continental;;X
+Paris St-Lazare;Puteaux;10 km;25kVac;Gabarit continental;;
+La Roche sur Yon;Luçon;37 km;Non-electrifie;Gabarit continental;;
+Luçon;La Rochelle-Ville;66 km;Non-electrifie;Gabarit continental;;
+La Roche sur Yon;La Rochelle-Ville;103 km;Non-electrifie;Gabarit continental;;
+La Rochelle-Ville;Rochefort;29 km;Non-electrifie;Gabarit continental;;
+Rochefort;Saintes;44 km;Non-electrifie;Gabarit continental;;
+La Rochelle-Ville;Saintes;73 km;Non-electrifie;Gabarit continental;;
+Saintes;Jonzac;43 km;Non-electrifie;Gabarit continental;;
+Bordeaux St-Jean;Jonzac;68 km;Non-electrifie;Gabarit continental;;
+Bordeaux St-Jean;Saintes;111 km;Non-electrifie;Gabarit continental;;
+Paris Montparnasse;Viroflay Rive-Gauche;14 km;1.5kVcc;Gabarit continental;;X
+Versailles-Chantiers;Viroflay Rive-Gauche;3 km;1.5kVcc;Gabarit continental;;X
+Viroflay Rive-Gauche;Issy Plaine/Val-de-Seine;9 km;1.5kVcc;Gabarit continental;;X
+Issy Plaine/Val-de-Seine;Invalides;6 km;1.5kVcc;Gabarit continental;;
+Puteaux;Issy Plaine/Val-de-Seine;10 km;750Vcc catenaires;Tram;Tramway urbain;X
+Rouen Rive Droite;Le Havre;88 km;25kVac;Gabarit continental;;
+Paris St-Lazare;Le Havre;228 km;25kVac;Gabarit continental;;
+Paris Orsay;Invalides;1 km;1.5kVcc;Gabarit continental;;X
+Paris Gare de Lyon;Nevers;234 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Nevers;Clermont-Ferrand;166 km;25kVac;Gabarit continental;;X
+Paris Gare de Lyon;Clermont-Ferrand;400 km;1.5kVcc & 25kVac;Gabarit continental;;
+Avignon-Centre;Nîmes;49 km;1.5kVcc;Gabarit continental;;X
+Paris Est;Château-Thierry;94 km;25kVac;Gabarit continental;;
+Château-Thierry;Épernay;47 km;25kVac;Gabarit continental;;
+Épernay;Châlons-en-Champagne;31 km;25kVac;Gabarit continental;;
+Paris Est;Châlons-en-Champagne;172 km;25kVac;Gabarit continental;;
+Châlons-en-Champagne;Bar-le-Duc;81 km;25kVac;Gabarit continental;;
+Paris Est;Bar-le-Duc;253 km;25kVac;Gabarit continental;;
+Bar-le-Duc;Metz-Ville;101 km;25kVac;Gabarit continental;;
+Paris Est;Metz-Ville;354 km;25kVac;Gabarit continental;;
+Metz-Ville;Thionville;29 km;25kVac;Gabarit continental;;
+Thionville;Luxembourg;32 km;25kVac;Gabarit continental;;
+Metz-Ville;Luxembourg;61 km;25kVac;Gabarit continental;;
+London Victoria;Gatwick Airport;43 km;750Vcc 3eme rail;Gabarit britannique;;
+Strasbourg-Ville;Karlsruhe Hbf;84 km;15kVac & 25kVac;Gabarit continental;;
+Karlsruhe Hbf;Mannheim Hbf;62 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Saarbrücken Hbf;130 km;15kVac;Gabarit continental;;
+Saarbrücken Hbf;Forbach;10 km;15kVac & 25kVac;Gabarit continental;;
+Metz-Ville;Forbach;85 km;25kVac;Gabarit continental;;
+Saarbrücken Hbf;Sarreguemines;18 km;750Vcc catenaires & 15kVac;Tram;Saarbahn;
+Thionville;Sarreguemines;92 km;Non-electrifie;Gabarit continental;;
+Paris Est;Troyes;166 km;Non-electrifie;Gabarit continental;;
+Troyes;Chaumont;95 km;Non-electrifie;Gabarit continental;;
+Paris Est;Chaumont;261 km;Non-electrifie;Gabarit continental;;
+Chaumont;Culmont-Chalindrey;46 km;Non-electrifie;Gabarit continental;;
+Troyes;Culmont-Chalindrey;142 km;Non-electrifie;Gabarit continental;;
+Paris Est;Culmont-Chalindrey;307 km;Non-electrifie;Gabarit continental;;
+Culmont-Chalindrey;Vesoul;73 km;Non-electrifie;Gabarit continental;;
+Vesoul;Belfort;62 km;Non-electrifie;Gabarit continental;;
+Paris Est;Belfort;442 km;Non-electrifie;Gabarit continental;;
+Mulhouse;Belfort;48 km;25kVac;Gabarit continental;;
+Paris Est;Mulhouse;490 km;Non-electrifie;Gabarit continental;;
+Marseille St Charles;Toulon;67 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Laroche-Migennes;Dijon-Ville;159 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Dijon-Ville;314 km;1.5kVcc;Gabarit continental;;
+Lyon Perrache;Dijon-Ville;197 km;1.5kVcc;Gabarit continental;;
+Dijon-Ville;Dole-Ville;46 km;1.5kVcc;Gabarit continental;;X
+Dole-Ville;Besançon-Viotte;45 km;25kVac;Gabarit continental;;
+Dijon-Ville;Besançon-Viotte;92 km;1.5kVcc & 25kVac;Gabarit continental;;
+Besançon-Viotte;Besançon Franche-Comté TGV;13 km;25kVac;Gabarit continental;;
+Dole-Ville;Frasne;77 km;25kVac;Gabarit continental;;X
+Frasne;Vallorbe;24 km;25kVac;Gabarit continental;;X
+Dole-Ville;Vallorbe;101 km;25kVac;Gabarit continental;;
+Vallorbe;Lausanne;51 km;15kVac;Gabarit continental;;X
+Dijon-Ville;Vallorbe;147 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Lyon Perrache;St-Étienne-Châteaucreux;73 km;1.5kVcc;Gabarit continental;;X
+Clermont-Ferrand;St-Étienne-Châteaucreux;144 km;Non-electrifie;Gabarit continental;;X
+St-Étienne-Châteaucreux;Roanne;82 km;Non-electrifie;Gabarit continental;;X
+Kehl;Offenburg;21 km;15kVac;Gabarit continental;;
+Strasbourg-Ville;Offenburg;29 km;15kVac & 25kVac;Gabarit continental;;
+Lyon Perrache;Lyon Part-Dieu;5 km;1.5kVcc;Gabarit continental;;X
+Ambérieu;Lyon Part-Dieu;46 km;1.5kVcc;Gabarit continental;;X
+Genève-Cornavin;Lyon Part-Dieu;163 km;1.5kVcc;Gabarit continental;;X
+Dijon-Ville;Lyon Part-Dieu;193 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Lyon Part-Dieu;507 km;1.5kVcc;Gabarit continental;;
+Chambéry-Challes les Eaux;Lyon Part-Dieu;113 km;1.5kVcc;Gabarit continental;;
+Valence-Ville;Lyon Part-Dieu;109 km;1.5kVcc;Gabarit continental;;X
+Avignon-Centre;Lyon Part-Dieu;234 km;1.5kVcc;Gabarit continental;;
+Marseille St Charles;Lyon Part-Dieu;352 km;1.5kVcc;Gabarit continental;;
+Lyon Part-Dieu;Lyon St Exupéry;23 km;750Vcc catenaires;Tram;;X
+Rennes;St Brieuc;101 km;25kVac;Gabarit continental;;
+St Brieuc;Guingamp;30 km;25kVac;Gabarit continental;;
+Guingamp;Morlaix;58 km;25kVac;Gabarit continental;;
+Morlaix;Brest;58 km;25kVac;Gabarit continental;;
+Rennes;Morlaix;190 km;25kVac;Gabarit continental;;
+Paris Montparnasse;Rennes;373 km;1.5kVcc & 25kVac;Gabarit continental;;
+Paris Montparnasse;Brest;622 km;1.5kVcc & 25kVac;Gabarit continental;;
+Morlaix;Roscoff;28 km;Non-electrifie;Gabarit continental;;
+Paris Nord;Compiègne;84 km;25kVac;Gabarit continental;;
+Toulon;Les Arcs - Draguignan;69 km;25kVac;Gabarit continental;;X
+Marseille St Charles;Les Arcs - Draguignan;136 km;1.5kVcc & 25kVac;Gabarit continental;;
+Les Arcs - Draguignan;Cannes;57 km;25kVac;Gabarit continental;;X
+Cannes;Nice-Ville;31 km;25kVac;Gabarit continental;;X
+Marseille St Charles;Nice-Ville;224 km;1.5kVcc & 25kVac;Gabarit continental;;
+Nice-Ville;Monaco Monte-Carlo;16 km;25kVac;Gabarit continental;;X
+Marseille St Charles;Monaco Monte-Carlo;240 km;1.5kVcc & 25kVac;Gabarit continental;;
+Monaco Monte-Carlo;Menton;8 km;25kVac;Gabarit continental;;X
+Nice-Ville;Menton;24 km;25kVac;Gabarit continental;;
+Marseille St Charles;Menton;248 km;1.5kVcc & 25kVac;Gabarit continental;;
+Menton;Ventimiglia;11 km;1.5kVcc & 25kVac;Gabarit continental;;
+Nice-Ville;Ventimiglia;35 km;1.5kVcc & 25kVac;Gabarit continental;;
+Marseille St Charles;Ventimiglia;259 km;1.5kVcc & 25kVac;Gabarit continental;;
+Belfort;Besançon-Viotte;98 km;25kVac;Gabarit continental;;
+Nantes;Savenay;39 km;25kVac;Gabarit continental;;
+Nantes;Le Croisic;89 km;25kVac;Gabarit continental;;
+St Nazaire;Savenay;25 km;25kVac;Gabarit continental;;
+St Nazaire;Le Croisic;26 km;25kVac;Gabarit continental;;X
+Redon;Savenay;42 km;25kVac;Gabarit continental;;
+Paris Austerlitz;Pont de Rungis / Aéroport d\'Orly;16 km;1.5kVcc;Gabarit continental;;X
+Massy;Pont de Rungis / Aéroport d\'Orly;10 km;1.5kVcc;Gabarit continental;;X
+Bruxelles-Midi;Bruxelles-Nord;4 km;3kVcc;Gabarit continental;;
+Bruxelles-Nord;Leuven;29 km;3kVcc;Gabarit continental;;
+Leuven;Liège-Guillemins;66 km;3kVcc;Gabarit continental;;
+Bruxelles-Nord;Liège-Guillemins;95 km;3kVcc;Gabarit continental;;
+Bruxelles-Midi;Liège-Guillemins;99 km;3kVcc;Gabarit continental;;
+Creil;Compiègne;33 km;25kVac;Gabarit continental;;
+Amsterdam Centraal;Den Haag HS;63 km;1.5kVcc;Gabarit continental;;
+Den Haag HS;Rotterdam Centraal;23 km;1.5kVcc;Gabarit continental;;
+Amsterdam Centraal;Rotterdam Centraal;86 km;1.5kVcc;Gabarit continental;;
+Amsterdam Centraal;Schiphol Airport;17 km;1.5kVcc;Gabarit continental;;
+Montpellier St Roch;Sète;29 km;1.5kVcc;Gabarit continental;;X
+Sète;Béziers;40 km;1.5kVcc;Gabarit continental;;X
+Montpellier St Roch;Béziers;69 km;1.5kVcc;Gabarit continental;;
+Béziers;Narbonne;29 km;1.5kVcc;Gabarit continental;;X
+Montpellier St Roch;Narbonne;97 km;1.5kVcc;Gabarit continental;;
+Toulouse-Matabiau;Narbonne;150 km;1.5kVcc;Gabarit continental;;X
+Narbonne;Perpignan;64 km;1.5kVcc;Gabarit continental;;X
+Perpignan;Villefranche-Vernet les Bains;46 km;1.5kVcc;Gabarit continental;;X
+Toulouse-Matabiau;Latour de Carol-Enveitg;163 km;1.5kVcc;Gabarit continental;;
+Villefranche-Vernet les Bains;Latour de Carol-Enveitg;63 km;850Vcc 3eme rail;Ecartement metrique;;X
+Paris Nord;Pontoise;29 km;25kVac;Gabarit continental;;
+Paris St-Lazare;Mantes-la-Jolie;57 km;25kVac;Gabarit continental;via Poissy;X
+Paris St-Lazare;Caen;240 km;25kVac;Gabarit continental;;X
+Caen;Cherbourg;130 km;25kVac;Gabarit continental;;
+Paris St-Lazare;Cherbourg;370 km;25kVac;Gabarit continental;;
+Bordeaux St-Jean;Le Verdon;109 km;1.5kVcc;Gabarit continental;Via Bordeaux - St Louis;
+Bordeaux St-Jean;Le Verdon;108 km;1.5kVcc;Gabarit continental;Itinéraire après 2012;
+Bordeaux St-Jean;Bordeaux St-Louis/Ravezies;17 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Macau;27 km;1.5kVcc;Gabarit continental;Via Bordeaux - St Louis;
+Bordeaux St-Jean;Macau;26 km;1.5kVcc;Gabarit continental;Itinéraire après 2012;
+Macau;Pessac;22 km;1.5kVcc;Gabarit continental;;
+Calais-Ville;Boulogne-Ville;41 km;25kVac;Gabarit continental;;
+Calais-Fréthun;Boulogne-Ville;33 km;25kVac;Gabarit continental;;X
+Boulogne-Ville;Etaples-le-Touquet;27 km;25kVac;Gabarit continental;;X
+Calais-Ville;Etaples-le-Touquet;68 km;25kVac;Gabarit continental;;
+Etaples-le-Touquet;Abbeville;51 km;Non-electrifie;Gabarit continental;;X
+Boulogne-Ville;Abbeville;78 km;Non-electrifie;Gabarit continental;;
+Boulogne-Ville;Amiens;123 km;Non-electrifie;Gabarit continental;;
+Abbeville;Amiens;45 km;Non-electrifie;Gabarit continental;;X
+Creil;Amiens;80 km;25kVac;Gabarit continental;;X
+Paris Nord;Amiens;131 km;25kVac;Gabarit continental;;
+Paris Gare de Lyon;Châtelet - Les Halles;3 km;1.5kVcc;Gabarit continental;;
+Paris Nord;Châtelet - Les Halles;5 km;1.5kVcc;Gabarit continental;;X
+Paris Gare de Lyon;Paris Nord;5 km;1.5kVcc;Gabarit continental;Par tunnel du RER D;
+Karlsruhe Hbf;Stuttgart Hbf;91 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Heidelberg Hbf;113 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Stuttgart Hbf;130 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Heidelberg Hbf;17 km;15kVac;Gabarit continental;;
+Genève-Cornavin;Genève Aéroport;6 km;15kVac;Gabarit continental;;
+Genève-Cornavin;Coppet;13 km;15kVac;Gabarit continental;;
+Coppet;Nyon;9 km;15kVac;Gabarit continental;;
+Nyon;Morges;26 km;15kVac;Gabarit continental;;
+Lausanne;Morges;13 km;15kVac;Gabarit continental;;
+Genève-Cornavin;Nyon;22 km;15kVac;Gabarit continental;;
+Genève-Cornavin;Morges;48 km;15kVac;Gabarit continental;;
+Genève-Cornavin;Lausanne;60 km;15kVac;Gabarit continental;;X
+Massy;Paris Luxembourg;15 km;1.5kVcc;Gabarit continental;;X
+Paris Luxembourg;Robinson;12 km;1.5kVcc;Gabarit continental;;X
+Paris Luxembourg;St Michel - Notre-Dame;1 km;1.5kVcc;Gabarit continental;;X
+Châtelet - Les Halles;St Michel - Notre-Dame;1 km;1.5kVcc;Gabarit continental;;X
+Châtelet - Les Halles;Paris Luxembourg;2 km;1.5kVcc;Gabarit continental;;
+Paris Orsay;St Michel - Notre-Dame;2 km;1.5kVcc;Gabarit continental;;X
+Paris Austerlitz;St Michel - Notre-Dame;2 km;1.5kVcc;Gabarit continental;;X
+Karlsruhe Hbf;Baden Baden;29 km;15kVac;Gabarit continental;;
+Baden Baden;Achern;20 km;15kVac;Gabarit continental;;
+Karlsruhe Hbf;Achern;49 km;15kVac;Gabarit continental;;
+Offenburg;Baden Baden;40 km;15kVac;Gabarit continental;;
+Karlsruhe Hbf;Offenburg;69 km;15kVac;Gabarit continental;;
+Offenburg;Lahr;18 km;15kVac;Gabarit continental;;
+Lahr;Freiburg am Breisgau Hbf;45 km;15kVac;Gabarit continental;;
+Offenburg;Freiburg am Breisgau Hbf;63 km;15kVac;Gabarit continental;;
+Baden Baden;Freiburg am Breisgau Hbf;103 km;15kVac;Gabarit continental;;
+Karlsruhe Hbf;Freiburg am Breisgau Hbf;132 km;15kVac;Gabarit continental;;
+Freiburg am Breisgau Hbf;Basel Bad Bf;61 km;15kVac;Gabarit continental;;
+Bâle-CFF/SNCF;Basel Bad Bf;5 km;15kVac;Gabarit continental;;
+Mulhouse;Müllheim;22 km;15kVac & 25kVac;Gabarit continental;;
+Freiburg am Breisgau Hbf;Müllheim;29 km;15kVac;Gabarit continental;;
+Mulhouse;Freiburg am Breisgau Hbf;51 km;15kVac & 25kVac;Gabarit continental;;
+Basel Bad Bf;Müllheim;32 km;15kVac;Gabarit continental;;
+London St Pancras;West Hampstead;9 km;25kVac;Gabarit britannique;via Thameslink & Midland Main Line;
+West Hampstead;Harringay;7 km;25kVac;Gabarit britannique;;
+London St Pancras;Harringay;6 km;25kVac;Gabarit britannique;;
+Harringay;London King\'s Cross;6 km;25kVac;Gabarit britannique;;
+West Hampstead;Camden Road;5 km;25kVac;Gabarit britannique;;
+London St Pancras;Camden Road;2 km;25kVac;Gabarit britannique;;
+London St Pancras;West Hampstead;6 km;25kVac;Gabarit britannique;via Camden Road;
+Camden Road;South Hampstead;3 km;25kVac;Gabarit britannique;;
+South Hampstead;London Euston;4 km;25kVac;Gabarit continental;;
+Luxembourg;Kleinbettingen;18 km;25kVac;Gabarit continental;;
+Luxembourg;Arlon;29 km;3kVcc & 25kVac;Gabarit continental;;
+Arlon;Libramont;46 km;3kVcc;Gabarit continental;;
+Libramont;Ciney;61 km;3kVcc;Gabarit continental;;
+Arlon;Ciney;107 km;3kVcc;Gabarit continental;;
+Ciney;Namur;29 km;3kVcc;Gabarit continental;;
+Arlon;Namur;137 km;3kVcc;Gabarit continental;;
+Luxembourg;Namur;165 km;3kVcc;Gabarit continental;;
+Namur;Bruxelles-Luxembourg;54 km;3kVcc;Gabarit continental;;
+Luxembourg;Bruxelles-Luxembourg;190 km;3kVcc & 25kVac;Gabarit continental;;
+Luxembourg;Bruxelles-Nord;196 km;3kVcc & 25kVac;Gabarit continental;;
+Bruxelles-Nord;Namur;61 km;3kVcc;Gabarit continental;;
+Bruxelles-Nord;Arlon;197 km;3kVcc;Gabarit continental;;
+Bruxelles-Nord;Bruxelles-Luxembourg;6 km;3kVcc;Gabarit continental;;
+Mulhouse;Lutterbach;7 km;750Vcc catenaires;Tram;Tram urbain;X
+Mulhouse;Lutterbach;6 km;25kVac;Gabarit continental;;
+Lutterbach;Thann;14 km;25kVac;Gabarit continental;;X
+Thann;Thann St Jacques;1 km;25kVac;Gabarit continental;;X
+Thann St Jacques;Wesserling;12 km;Non-electrifie;Gabarit continental;;
+Wesserling;Kruth;5 km;Non-electrifie;Gabarit continental;;
+Mulhouse;Thann;21 km;750Vcc catenaires & 25kVac;Tram;Tram-train;
+Mulhouse;Thann St Jacques;22 km;750Vcc catenaires & 25kVac;Tram;Tram-train;
+Mulhouse;Thann;20 km;25kVac;Gabarit continental;;
+Mulhouse;Thann St Jacques;21 km;25kVac;Gabarit continental;;
+Mulhouse;Wesserling;33 km;Non-electrifie;Gabarit continental;;
+Mulhouse;Kruth;38 km;Non-electrifie;Gabarit continental;;
+Lutterbach;Thann St Jacques;16 km;25kVac;Gabarit continental;;
+Lutterbach;Wesserling;27 km;Non-electrifie;Gabarit continental;;
+Lutterbach;Kruth;32 km;Non-electrifie;Gabarit continental;;
+Thann;Wesserling;13 km;Non-electrifie;Gabarit continental;;
+Thann;Kruth;18 km;Non-electrifie;Gabarit continental;;
+Thann St Jacques;Kruth;16 km;Non-electrifie;Gabarit continental;;
+Bordeaux St-Jean;Libourne;37 km;1.5kVcc;Gabarit continental;;X
+Libourne;Coutras;16 km;1.5kVcc;Gabarit continental;;X
+Bordeaux St-Jean;Coutras;53 km;1.5kVcc;Gabarit continental;;
+Coutras;Angoulême;82 km;1.5kVcc;Gabarit continental;;X
+Libourne;Angoulême;98 km;1.5kVcc;Gabarit continental;;X
+Bordeaux St-Jean;Angoulême;134 km;1.5kVcc;Gabarit continental;;
+Angoulême;Poitiers;113 km;1.5kVcc;Gabarit continental;;X
+Bordeaux St-Jean;Poitiers;247 km;1.5kVcc;Gabarit continental;;
+Poitiers;Châtellerault;33 km;1.5kVcc;Gabarit continental;;X
+Poitiers;Port-de-Piles;55 km;1.5kVcc;Gabarit continental;;
+Châtellerault;Port-de-Piles;22 km;1.5kVcc;Gabarit continental;;
+Tours;Port-de-Piles;45 km;1.5kVcc;Gabarit continental;;
+St Pierre des Corps;Port-de-Piles;48 km;1.5kVcc;Gabarit continental;;
+St Pierre des Corps;Châtellerault;70 km;1.5kVcc;Gabarit continental;;X
+Tours;Châtellerault;68 km;1.5kVcc;Gabarit continental;;
+Tours;Poitiers;101 km;1.5kVcc;Gabarit continental;;X
+St Pierre des Corps;Poitiers;104 km;1.5kVcc;Gabarit continental;;X
+St Pierre des Corps;Blois-Chambord;53 km;1.5kVcc;Gabarit continental;;X
+Tours;Blois-Chambord;57 km;1.5kVcc;Gabarit continental;;
+Les Aubrais - Orléans;Blois-Chambord;61 km;1.5kVcc;Gabarit continental;;X
+Blois-Chambord;Orléans;63 km;1.5kVcc;Gabarit continental;;X
+St Pierre des Corps;Orléans;116 km;1.5kVcc;Gabarit continental;;
+Tours;Orléans;120 km;1.5kVcc;Gabarit continental;;
+Les Aubrais - Orléans;Orléans;2 km;1.5kVcc;Gabarit continental;;X
+Paris Austerlitz;Orléans;121 km;1.5kVcc;Gabarit continental;;
+Mannheim Hbf;Mannheim-Neckarstadt;3 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Mannheim-Waldhof;6 km;15kVac;Gabarit continental;Westliche Einführung der Riedbahn;
+Mannheim-Neckarstadt;Mannheim-Waldhof;3 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Mannheim-Waldhof;10 km;15kVac;Gabarit continental;Riedbahn;
+Mannheim-Waldhof;Biblis;19 km;15kVac;Gabarit continental;;
+Mannheim-Neckarstadt;Biblis;22 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Biblis;25 km;15kVac;Gabarit continental;Westliche Einführung der Riedbahn;
+Mannheim Hbf;Biblis;28 km;15kVac;Gabarit continental;Riedbahn;
+Biblis;Riedstadt-Goddelau;18 km;15kVac;Gabarit continental;;
+Riedstadt-Goddelau;Zeppelinheim;25 km;15kVac;Gabarit continental;;
+Zeppelinheim;Frankfurt am Main Flughafen;4 km;15kVac;Gabarit continental;;
+Riedstadt-Goddelau;Frankfurt am Main Flughafen;29 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Frankfurt am Main Flughafen;72 km;15kVac;Gabarit continental;Westliche Einführung der Riedbahn;
+Mannheim Hbf;Frankfurt am Main Flughafen;75 km;15kVac;Gabarit continental;Riedbahn;
+Zeppelinheim;Frankfurt am Main Hbf;13 km;15kVac;Gabarit continental;;
+Frankfurt am Main Flughafen;Frankfurt am Main Hbf;10 km;15kVac;Gabarit continental;;
+Riedstadt-Goddelau;Frankfurt am Main Hbf;38 km;15kVac;Gabarit continental;;
+Biblis;Frankfurt am Main Hbf;55 km;15kVac;Gabarit continental;;
+Mannheim-Neckarstadt;Frankfurt am Main Hbf;77 km;15kVac;Gabarit continental;;
+Mannheim Hbf;Frankfurt am Main Hbf;80 km;15kVac;Gabarit continental;Westliche Einführung der Riedbahn;
+Mannheim Hbf;Frankfurt am Main Hbf;84 km;15kVac;Gabarit continental;Riedbahn;
+Strasbourg-Ville;Mommenheim;22 km;25kVac;Gabarit continental;;
+Sarreguemines;Mommenheim;73 km;Non-electrifie;Gabarit continental;;
+Strasbourg-Ville;Sarreguemines;96 km;Non-electrifie;Gabarit continental;;
+Strasbourg-Ville;Saverne;44 km;25kVac;Gabarit continental;;
+Mommenheim;Saverne;22 km;25kVac;Gabarit continental;;
+Saverne;Reding;23 km;25kVac;Gabarit continental;;
+Strasbourg-Ville;Reding;67 km;25kVac;Gabarit continental;;
+Reding;Sarrebourg;3 km;25kVac;Gabarit continental;;
+Saverne;Sarrebourg;26 km;25kVac;Gabarit continental;;
+Strasbourg-Ville;Sarrebourg;70 km;25kVac;Gabarit continental;;
+Sarrebourg;Lunéville;47 km;25kVac;Gabarit continental;;
+Lunéville;Nancy-Ville;33 km;25kVac;Gabarit continental;;
+Sarrebourg;Nancy-Ville;79 km;25kVac;Gabarit continental;;
+Saverne;Nancy-Ville;106 km;25kVac;Gabarit continental;;
+Strasbourg-Ville;Nancy-Ville;150 km;25kVac;Gabarit continental;;
+Metz-Ville;Reding;87 km;25kVac;Gabarit continental;;
+Metz-Ville;Sarrebourg;89 km;25kVac;Gabarit continental;;
+Metz-Ville;Nancy-Ville;168 km;25kVac;Gabarit continental;Via Sarrebourg;
+Strasbourg-Ville;Metz-Ville;154 km;25kVac;Gabarit continental;;
+Metz-Ville;Nancy-Ville;56 km;25kVac;Gabarit continental;Via Pont-à-Mousson;
+Vierzon-Ville;Villefranche-sur-Cher;23 km;1.5kVcc & 25kVac;Gabarit continental;;
+Villefranche-sur-Cher;Romorantin;8 km;Non-electrifie;Gabarit continental;;
+Villefranche-sur-Cher;Gièvres;8 km;25kVac;Gabarit continental;;
+St Pierre des Corps;Gièvres;77 km;1.5kVcc & 25kVac;Gabarit continental;;
+St Pierre des Corps;Villefranche-sur-Cher;85 km;1.5kVcc & 25kVac;Gabarit continental;;
+St Pierre des Corps;Vierzon-Ville;107 km;1.5kVcc & 25kVac;Gabarit continental;;
+Tours;Vierzon-Ville;111 km;1.5kVcc & 25kVac;Gabarit continental;;
+Romorantin;Gièvres;5 km;Non-electrifie;Ecartement metrique;;
+Paris Gare de Lyon;Paris Nation;2 km;1.5kVcc;Gabarit continental;;
+Paris Nation;Boissy St Léger;19 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Boissy St Léger;21 km;1.5kVcc;Gabarit continental;;
+Paris Est;Gretz-Armainvilliers;38 km;25kVac;Gabarit continental;;
+Paris Est;Verneuil l\'Étang;54 km;Non-electrifie;Gabarit continental;;
+Verneuil l\'Étang;Gretz-Armainvilliers;16 km;Non-electrifie;Gabarit continental;;
+Frankfurt am Main Hbf;Frankfurt Höchst;9 km;15kVac;Gabarit continental;Via Taunus Eisenbahn;
+Frankfurt am Main Hbf;Frankfurt Höchst;9 km;15kVac;Gabarit continental;Via Main-Lahn-Bahn;
+Frankfurt Höchst;Königstein im Taunus;16 km;Non-electrifie;Gabarit continental;;
+Frankfurt am Main Hbf;Königstein im Taunus;25 km;Non-electrifie;Gabarit continental;Via Taunus Eisenbahn;
+Frankfurt am Main Hbf;Königstein im Taunus;25 km;Non-electrifie;Gabarit continental;Via Main-Lahn-Bahn;
+Frankfurt Höchst;Wiesbaden Ost;32 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Wiesbaden Ost;41 km;15kVac;Gabarit continental;Via taunus Eisenbahn;
+Frankfurt am Main Hbf;Wiesbaden Ost;41 km;15kVac;Gabarit continental;Via Main-Lahn-Bahn & Taunus Eisenbahn;
+Frankfurt am Main Hbf;Wiesbaden Hbf;46 km;15kVac;Gabarit continental;Via Taunus Eisenbahn;
+Frankfurt am Main Hbf;Wiesbaden Hbf;46 km;15kVac;Gabarit continental;Via Taunus Eisenbahn & Main-Lahn-Bahn;
+Wiesbaden Ost;Wiesbaden Hbf;3 km;15kVac;Gabarit continental;;
+Wiesbaden Ost;Mainz Hbf;13 km;15kVac;Gabarit continental;;
+Wiesbaden Hbf;Mainz Hbf;16 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Mainz Hbf;38 km;15kVac;Gabarit continental;;
+Frankfurt am Main Flughafen;Mainz Hbf;28 km;15kVac;Gabarit continental;;
+Toulouse-Matabiau;Toulouse-St-Cyprien-Arènes;10 km;Non-electrifie;Gabarit continental;;
+Toulouse-St-Cyprien-Arènes;Colomiers;7 km;Non-electrifie;Gabarit continental;;
+Colomiers;Auch;72 km;Non-electrifie;Gabarit continental;;
+Toulouse-Matabiau;Auch;88 km;Non-electrifie;Gabarit continental;;
+Paris St-Lazare;Pont-Cardinet;2 km;25kVac;Gabarit continental;;X
+Pont-Cardinet;Asnières-sur-Seine;3 km;25kVac;Gabarit continental;;X
+Asnières-sur-Seine;Bécon-les-Bruyères;1 km;25kVac;Gabarit continental;;X
+Bécon-les-Bruyères;La Défense;3 km;25kVac;Gabarit continental;;X
+Puteaux;La Défense;1 km;25kVac;Gabarit continental;;X
+Puteaux;La Défense;1 km;750Vcc catenaires;Tram;Par T2;X
+Puteaux;St-Cloud;6 km;25kVac;Gabarit continental;;X
+Chaville Rive-Droite;St-Cloud;10 km;25kVac;Gabarit continental;;X
+Chaville Rive-Droite;Versailles Rive-Droite;4 km;25kVac;Gabarit continental;;X
+Paris St-Lazare;Asnières-sur-Seine;5 km;25kVac;Gabarit continental;;
+Paris St-Lazare;Bécon-les-Bruyères;6 km;25kVac;Gabarit continental;;
+Paris St-Lazare;La Défense;8 km;25kVac;Gabarit continental;;
+Paris St-Lazare;St-Cloud;15 km;25kVac;Gabarit continental;;
+Paris St-Lazare;Versailles Rive-Droite;30 km;25kVac;Gabarit continental;;
+La Défense;Versailles Rive-Droite;22 km;25kVac;Gabarit continental;;
+La Défense;Charles de Gaulle - Étoile;5 km;1.5kVcc;Gabarit continental;;
+Charles de Gaulle - Étoile;Auber;3 km;1.5kVcc;Gabarit continental;;
+La Défense;Auber;7 km;1.5kVcc;Gabarit continental;;
+La Défense;Nanterre Préfecture;1 km;1.5kVcc;Gabarit continental;;
+Nanterre Préfecture;Nanterre-Université;1 km;1.5kVcc;Gabarit continental;;
+La Défense;Nanterre-Université;3 km;1.5kVcc;Gabarit continental;;
+Paris St-Lazare;Nanterre-Université;8 km;25kVac;Gabarit continental;;
+Nanterre-Université;Rueil-Malmaison;4 km;1.5kVcc;Gabarit continental;;
+Rueil-Malmaison;St-Germain-en-Laye;7 km;1.5kVcc;Gabarit continental;;
+Châtelet - Les Halles;Auber;2 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Auber;5 km;1.5kVcc;Gabarit continental;;
+Mantes-la-Jolie;Vernon-Giverny;23 km;25kVac;Gabarit continental;;X
+Paris St-Lazare;Vernon-Giverny;80 km;25kVac;Gabarit continental;;X
+Rouen Rive Droite;Vernon-Giverny;60 km;25kVac;Gabarit continental;;X
+Rouen Rive Droite;Malaunay-le-Houlme;9 km;25kVac;Gabarit continental;;
+Malaunay-le-Houlme;Barentin;8 km;25kVac;Gabarit continental;;
+Rouen Rive Droite;Barentin;17 km;25kVac;Gabarit continental;;
+Barentin;Motteville;13 km;25kVac;Gabarit continental;;
+Rouen Rive Droite;Motteville;30 km;25kVac;Gabarit continental;;
+Motteville;Yvetot;7 km;25kVac;Gabarit continental;;
+Rouen Rive Droite;Yvetot;30 km;25kVac;Gabarit continental;;X
+Yvetot;Bréauté-Beuzeville;25 km;25kVac;Gabarit continental;;X
+Rouen Rive Droite;Bréauté-Beuzeville;63 km;25kVac;Gabarit continental;;
+Malaunay-le-Houlme;Dieppe;19 km;Non-electrifie;Gabarit continental;;
+Rouen Rive Droite;Dieppe;28 km;Non-electrifie;Gabarit continental;;X
+Le Havre;Bréauté-Beuzeville;26 km;25kVac;Gabarit continental;;X
+Lausanne;Palézieux;21 km;15kVac;Gabarit continental;;
+Palézieux;Romont;19 km;15kVac;Gabarit continental;;
+Lausanne;Romont;40 km;15kVac;Gabarit continental;;
+Romont;Fribourg;26 km;15kVac;Gabarit continental;;
+Lausanne;Fribourg;60 km;15kVac;Gabarit continental;;
+Fribourg;Bern;31 km;15kVac;Gabarit continental;;
+Lausanne;Bern;96 km;15kVac;Gabarit continental;;
+Bern;Olten;62 km;15kVac;Gabarit continental;;
+Fribourg;Olten;93 km;15kVac;Gabarit continental;;
+Bâle-CFF/SNCF;Olten;38 km;15kVac;Gabarit continental;;
+Bâle-CFF/SNCF;Bern;101 km;15kVac;Gabarit continental;;
+Olten;Aarau;13 km;15kVac;Gabarit continental;;
+Aarau;Rupperswil;6 km;15kVac;Gabarit continental;;
+Rupperswil;Lenzburg;4 km;15kVac;Gabarit continental;;
+Lenzburg;Othmarsingen;4 km;15kVac;Gabarit continental;;
+Othmarsingen;Killwangen-Spreitenbach;12 km;15kVac;Gabarit continental;;
+Killwangen-Spreitenbach;Zürich HB;16 km;15kVac;Gabarit continental;;
+Bern;Aarau;76 km;15kVac;Gabarit continental;;
+Bâle-CFF/SNCF;Aarau;51 km;15kVac;Gabarit continental;;
+Olten;Lenzburg;23 km;15kVac;Gabarit continental;;
+Aarau;Lenzburg;10 km;15kVac;Gabarit continental;;
+Bâle-CFF/SNCF;Lenzburg;61 km;15kVac;Gabarit continental;;
+Bern;Lenzburg;78 km;15kVac;Gabarit continental;;
+Lenzburg;Zürich HB;32 km;15kVac;Gabarit continental;;
+Bâle-CFF/SNCF;Zürich HB;92 km;15kVac;Gabarit continental;;X
+Bern;Zürich HB;109 km;15kVac;Gabarit continental;;
+Perpignan;Cerbère;41 km;1.5kVcc;Gabarit continental;;X
+Cerbère;Portbou;2 km;1.5kVcc;Gabarit continental;Ligne SNCF;
+Cerbère;Portbou;2 km;3kVcc;Ecartement iberique;Línea Renfe;
+Perpignan;Portbou;43 km;1.5kVcc;Gabarit continental;;
+Portbou;Figueras;26 km;3kVcc;Ecartement iberique;;
+Cerbère;Figueras;28 km;3kVcc;Ecartement iberique;;
+Massy;Versailles-Chantiers;15 km;1.5kVcc;Gabarit continental;;X
+Figueras;Girona;41 km;3kVcc;Ecartement iberique;;
+Figueras - Vilafant;Girona;42 km;3kVcc;Ecartement iberique;;
+Pont de Rungis / Aéroport d\'Orly;Les Saules;2 km;1.5kVcc;Gabarit continental;;
+Juvisy;Les Saules;7 km;1.5kVcc;Gabarit continental;;
+Massy;Les Saules;12 km;1.5kVcc;Gabarit continental;;
+Sucy-Bonneuil;Les Saules;8 km;1.5kVcc;Gabarit continental;;
+Massy;Sucy-Bonneuil;20 km;1.5kVcc;Gabarit continental;;
+Juvisy;Sucy-Bonneuil;15 km;1.5kVcc;Gabarit continental;Par ligne de Massy à Choisy-le-Roi;
+Juvisy;Sucy-Bonneuil;15 km;1.5kVcc;Gabarit continental;Par Grande Ceinture;
+Boissy St Léger;Sucy-Bonneuil;2 km;1.5kVcc;Gabarit continental;;
+Versailles-Chantiers;St-Cyr;5 km;1.5kVcc;Gabarit continental;;X
+Versailles-Chantiers;Noisy-le-Roi;10 km;Non-electrifie;Gabarit continental;;
+Noisy-le-Roi;St-Nom-la-Bretèche;3 km;25kVac;Gabarit continental;;
+St-Nom-la-Bretèche;St-Germain Grande Ceinture;6 km;25kVac;Gabarit continental;;
+Noisy-le-Roi;St-Germain Grande Ceinture;9 km;25kVac;Gabarit continental;;
+St-Germain Grande Ceinture;Achères - Grand-Cormier;8 km;Non-electrifie;Gabarit continental;;
+Achères - Grand-Cormier;Poissy;4 km;25kVac;Gabarit continental;;X
+Achères - Grand-Cormier;Sartrouville;6 km;25kVac;Gabarit continental;;X
+Sartrouville;Val d\'Argenteuil;6 km;25kVac;Gabarit continental;;
+Val d\'Argenteuil;Argenteuil;3 km;25kVac;Gabarit continental;;
+Sartrouville;Argenteuil;9 km;25kVac;Gabarit continental;;
+Val d\'Argenteuil;Épinay-sur-Seine;6 km;25kVac;Gabarit continental;;
+Sartrouville;Épinay-sur-Seine;12 km;25kVac;Gabarit continental;;
+Épinay-sur-Seine;Épinay-Villetaneuse;2 km;25kVac;Gabarit continental;;
+Épinay-Villetaneuse;Pierrefitte-Stains;4 km;25kVac;Gabarit continental;;
+Pierrefitte-Stains;Le Bourget;5 km;25kVac;Gabarit continental;;
+Épinay-sur-Seine;Le Bourget;11 km;25kVac;Gabarit continental;;
+Le Bourget;Noisy-le-Sec;5 km;25kVac;Gabarit continental;;
+Noisy-le-Sec;Val de Fontenay;6 km;25kVac;Gabarit continental;;
+Val de Fontenay;Nogent le Perreux;2 km;25kVac;Gabarit continental;;
+Noisy-le-Sec;Nogent le Perreux;7 km;25kVac;Gabarit continental;;
+Sucy-Bonneuil;Nogent le Perreux;8 km;1.5kVcc & 25kVac;Gabarit continental;;
+Massy;Orsay-Ville;7 km;1.5kVcc;Gabarit continental;;X
+Paris Gare de Lyon;Sucy-Bonneuil;19 km;1.5kVcc;Gabarit continental;;
+Paris Nation;Sucy-Bonneuil;17 km;1.5kVcc;Gabarit continental;;
+Orsay-Ville;St Rémy lès Chevreuse;9 km;1.5kVcc;Gabarit continental;;X
+Massy;St Rémy lès Chevreuse;16 km;1.5kVcc;Gabarit continental;;
+St-Cyr;Plaisir-Grignon;11 km;1.5kVcc;Gabarit continental;;X
+Plaisir-Grignon;Épône-Mézières;20 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Plaisir-Grignon;Aubergenville-Élisabethville;20 km;1.5kVcc & 25kVac;Gabarit continental;;
+Mantes-la-Jolie;Épône-Mézières;9 km;25kVac;Gabarit continental;;X
+Mantes-la-Jolie;St-Cyr;39 km;1.5kVcc & 25kVac;Gabarit continental;;
+Versailles-Chantiers;Mantes-la-Jolie;44 km;1.5kVcc & 25kVac;Gabarit continental;;X
+St-Cyr;St-Quentin-en-Yvelines;3 km;1.5kVcc;Gabarit continental;;X
+Versailles-Chantiers;St-Quentin-en-Yvelines;7 km;1.5kVcc;Gabarit continental;;
+St-Quentin-en-Yvelines;La Verrière;8 km;1.5kVcc;Gabarit continental;;X
+St-Cyr;La Verrière;11 km;1.5kVcc;Gabarit continental;;
+Versailles-Chantiers;La Verrière;16 km;1.5kVcc;Gabarit continental;;
+La Verrière;Rambouillet;16 km;1.5kVcc;Gabarit continental;;X
+Versailles-Chantiers;Rambouillet;31 km;1.5kVcc;Gabarit continental;;X
+Paris Montparnasse;Rambouillet;48 km;1.5kVcc;Gabarit continental;;X
+Chartres;Rambouillet;39 km;1.5kVcc;Gabarit continental;;X
+Chartres;Nogent-le-Rotrou;61 km;1.5kVcc;Gabarit continental;;X
+Nogent-le-Rotrou;Connerré-Beillé;39 km;1.5kVcc;Gabarit continental;;X
+Le Mans;Connerré-Beillé;24 km;1.5kVcc;Gabarit continental;;X
+Le Mans;Nogent-le-Rotrou;63 km;1.5kVcc;Gabarit continental;;
+Connerré-Beillé;Bonnétable;17 km;Non-electrifie;Gabarit continental;;
+Épône-Mézières;Aubergenville-Élisabethville;3 km;25kVac;Gabarit continental;;X
+Poissy;Aubergenville-Élisabethville;20 km;25kVac;Gabarit continental;;X
+Mantes-la-Jolie;Poissy;31 km;25kVac;Gabarit continental;;
+Nanterre-Université;Sartrouville;5 km;25kVac;Gabarit continental;;
+Paris St-Lazare;Sartrouville;13 km;25kVac;Gabarit continental;;X
+Ermont-Eaubonne;Épinay-sur-Seine;5 km;25kVac;Gabarit continental;;X
+Épinay-sur-Seine;St Ouen;6 km;1.5kVcc & 25kVac;Gabarit continental;;X
+St Ouen;Neuilly - Porte Maillot;5 km;1.5kVcc;Gabarit continental;;X
+Neuilly - Porte Maillot;Champ de Mars;4 km;1.5kVcc;Gabarit continental;;X
+Ermont-Eaubonne;Champ de Mars;17 km;1.5kVcc & 25kVac;Gabarit continental;;
+Ermont-Eaubonne;Invalides;19 km;1.5kVcc & 25kVac;Gabarit continental;;
+Invalides;Champ de Mars;2 km;1.5kVcc;Gabarit continental;;X
+Issy Plaine/Val-de-Seine;Champ de Mars;4 km;1.5kVcc;Gabarit continental;;X
+Épinay-Villetaneuse;St Denis;3 km;25kVac;Gabarit continental;;X
+Paris Nord;St Denis;6 km;25kVac;Gabarit continental;;X
+Paris Nord;Épinay-Villetaneuse;9 km;25kVac;Gabarit continental;;
+Ermont-Eaubonne;Épinay-Villetaneuse;5 km;25kVac;Gabarit continental;;X
+Ermont-Eaubonne;Montigny-Beauchamp;6 km;25kVac;Gabarit continental;;X
+Pontoise;Montigny-Beauchamp;9 km;25kVac;Gabarit continental;;X
+Ermont-Eaubonne;Pontoise;15 km;25kVac;Gabarit continental;;
+Pierrefitte-Stains;St Denis;4 km;25kVac;Gabarit continental;;
+Paris Nord;Pierrefitte-Stains;10 km;25kVac;Gabarit continental;;
+Aulnay sous Bois;Le Bourget;5 km;25kVac;Gabarit continental;;X
+Paris Nord;Le Bourget;9 km;25kVac;Gabarit continental;;X
+Aéroport Charles de Gaulle;Le Bourget;20 km;25kVac;Gabarit continental;;
+Bondy;Noisy-le-Sec;1 km;25kVac;Gabarit continental;;
+Paris Est;Noisy-le-Sec;11 km;25kVac;Gabarit continental;;
+Noisy-le-Sec;Magenta;11 km;25kVac;Gabarit continental;;
+Magenta;Haussmann-St-Lazare;2 km;25kVac;Gabarit continental;;
+Paris Nation;Val de Fontenay;7 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Val de Fontenay;9 km;1.5kVcc;Gabarit continental;;
+Stuttgart Hbf;Stuttgart-Schwabstraße;3 km;15kVac;Gabarit continental;;
+Stuttgart-Schwabstraße;Stuttgart-Österfeld;6 km;15kVac;Gabarit continental;;
+Stuttgart-Österfeld;Stuttgart-Rohr;3 km;15kVac;Gabarit continental;;
+Stuttgart-Rohr;Echterdingen;6 km;15kVac;Gabarit continental;;
+Echterdingen;Stuttgart Flughafen;2 km;15kVac;Gabarit continental;;
+Stuttgart Flughafen;Filderstadt;3 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Stuttgart-Österfeld;9 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Stuttgart-Rohr;11 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Echterdingen;17 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Stuttgart Flughafen;19 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Filderstadt;22 km;15kVac;Gabarit continental;;
+Stuttgart-Rohr;Böblingen;9 km;15kVac;Gabarit continental;;
+Böblingen;Herrenberg;16 km;15kVac;Gabarit continental;;
+Stuttgart-Rohr;Herrenberg;25 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Böblingen;21 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Herrenberg;36 km;15kVac;Gabarit continental;;
+Clermont-Ferrand;Volvic;20 km;Non-electrifie;Gabarit continental;;
+Volvic;Laqueuille;44 km;Non-electrifie;Gabarit continental;;
+Laqueuille;Eygurande-Merlines;22 km;Non-electrifie;Gabarit continental;;
+Eygurande-Merlines;Ussel;18 km;Non-electrifie;Gabarit continental;;
+Ussel;Meymac;13 km;Non-electrifie;Gabarit continental;;
+Meymac;Tulle;54 km;Non-electrifie;Gabarit continental;;
+Brive-la-Gaillarde;Tulle;26 km;Non-electrifie;Gabarit continental;;
+Brive-la-Gaillarde;Niversac;61 km;Non-electrifie;Gabarit continental;;
+Périgueux;Niversac;11 km;Non-electrifie;Gabarit continental;;
+Périgueux;Mussidan;36 km;Non-electrifie;Gabarit continental;;
+Coutras;Mussidan;40 km;Non-electrifie;Gabarit continental;;
+Périgueux;Coutras;76 km;Non-electrifie;Gabarit continental;;
+Brive-la-Gaillarde;Périgueux;72 km;Non-electrifie;Gabarit continental;;
+Brive-la-Gaillarde;Ussel;93 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;Ussel;104 km;Non-electrifie;Gabarit continental;;
+Poitiers;St-Maixent;53 km;1.5kVcc & 25kVac;Gabarit continental;;X
+St-Maixent;Niort;23 km;25kVac;Gabarit continental;;X
+Niort;Surgères;34 km;25kVac;Gabarit continental;;
+La Rochelle-Ville;Surgères;33 km;25kVac;Gabarit continental;;
+La Rochelle-Ville;La Rochelle Porte-Dauphine;3 km;25kVac;Gabarit continental;;
+Poitiers;Niort;76 km;1.5kVcc & 25kVac;Gabarit continental;;
+La Rochelle-Ville;Niort;67 km;25kVac;Gabarit continental;;X
+La Rochelle-Ville;Poitiers;144 km;1.5kVcc & 25kVac;Gabarit continental;;
+Limoges-Bénédictins;Eymoutiers-Vassivière;49 km;Non-electrifie;Gabarit continental;;
+Meymac;Eymoutiers-Vassivière;50 km;Non-electrifie;Gabarit continental;;
+Limoges-Bénédictins;Meymac;99 km;Non-electrifie;Gabarit continental;;
+Lille Flandres;Croix-Wasquehal;7 km;25kVac;Gabarit continental;;
+Croix-Wasquehal;Roubaix;3 km;25kVac;Gabarit continental;;
+Roubaix;Tourcoing;3 km;25kVac;Gabarit continental;;
+Tourcoing;Mouscron;5 km;25kVac;Gabarit continental;;
+Mouscron;Kortrijk;12 km;3kVcc;Gabarit continental;;
+Lille Flandres;Roubaix;10 km;25kVac;Gabarit continental;;
+Lille Flandres;Tourcoing;12 km;25kVac;Gabarit continental;;
+Tourcoing;Kortrijk;14 km;3kVcc & 25kVac;Gabarit continental;;
+Lille Flandres;Kortrijk;27 km;3kVcc & 25kVac;Gabarit continental;;
+Nantes;Sucé-sur-Erdre;17 km;750Vcc catenaires & 25kVac;Tram;;X
+Sucé-sur-Erdre;Nort-sur-Erdre;12 km;750Vcc catenaires & 25kVac;Tram;;X
+Châteaubriant;Nort-sur-Erdre;35 km;750Vcc catenaires & 25kVac;Tram;;X
+Nantes;Châteaubriant;64 km;750Vcc catenaires & 25kVac;Tram;;
+Châteaubriant;Retiers;27 km;Non-electrifie;Gabarit continental;;
+Retiers;Janzé;10 km;Non-electrifie;Gabarit continental;;
+Rennes;Janzé;24 km;Non-electrifie;Gabarit continental;;
+Rennes;Retiers;34 km;Non-electrifie;Gabarit continental;;
+Rennes;Châteaubriant;60 km;Non-electrifie;Gabarit continental;;
+Champagne-Ardenne TGV;Reims;9 km;25kVac;Gabarit continental;;
+Épernay;Reims;30 km;25kVac;Gabarit continental;;
+Châlons-en-Champagne;St-Hilaire-au-Temple;16 km;25kVac;Gabarit continental;;
+Reims;St-Hilaire-au-Temple;40 km;Non-electrifie;Gabarit continental;;
+Châlons-en-Champagne;Reims;56 km;Non-electrifie;Gabarit continental;;
+Culoz;Aix-les-Bains;22 km;1.5kVcc;Gabarit continental;;X
+Chambéry-Challes les Eaux;Aix-les-Bains;14 km;1.5kVcc;Gabarit continental;;X
+Chambéry-Challes les Eaux;Montmélian;13 km;1.5kVcc;Gabarit continental;;X
+Montmélian;St-Pierre-d\'Albigny;11 km;1.5kVcc;Gabarit continental;;X
+St Jean de Maurienne;St-Pierre-d\'Albigny;46 km;1.5kVcc;Gabarit continental;;X
+Montmélian;Grenoble-Gières;43 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Grenoble-Gières;Grenoble;11 km;25kVac;Gabarit continental;;X
+Montmélian;Grenoble;54 km;1.5kVcc & 25kVac;Gabarit continental;;
+Chambéry-Challes les Eaux;Grenoble;68 km;1.5kVcc & 25kVac;Gabarit continental;;
+Aix-les-Bains;Annecy;40 km;25kVac;Gabarit continental;;X
+Annecy;La Roche sur Foron;38 km;25kVac;Gabarit continental;;X
+La Roche sur Foron;Annemasse;17 km;25kVac;Gabarit continental;;X
+Annecy;Annemasse;55 km;25kVac;Gabarit continental;;
+Chambéry-Challes les Eaux;Annecy;54 km;1.5kVcc & 25kVac;Gabarit continental;;
+St-Pierre-d\'Albigny;Albertville;24 km;1.5kVcc;Gabarit continental;;X
+Albertville;Bourg St Maurice;57 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Chambéry-Challes les Eaux;Albertville;48 km;1.5kVcc;Gabarit continental;;
+Chambéry-Challes les Eaux;St André le Gaz;42 km;25kVac;Gabarit continental;;X
+Lyon Perrache;Vénissieux;8 km;1.5kVcc;Gabarit continental;;X
+Lyon Part-Dieu;Vénissieux;8 km;1.5kVcc;Gabarit continental;;X
+Vénissieux;Bourgoin-Jallieu;63 km;1.5kVcc & 25kVac;Gabarit continental;;X
+St André le Gaz;Bourgoin-Jallieu;22 km;25kVac;Gabarit continental;;X
+St André le Gaz;Rives;31 km;25kVac;Gabarit continental;;X
+Rives;Moirans;17 km;25kVac;Gabarit continental;;X
+Grenoble;Moirans;18 km;25kVac;Gabarit continental;;X
+Lyon Perrache;Bourgoin-Jallieu;71 km;1.5kVcc & 25kVac;Gabarit continental;;
+Lyon Part-Dieu;Bourgoin-Jallieu;71 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Lyon Perrache;St André le Gaz;93 km;1.5kVcc & 25kVac;Gabarit continental;;
+Lyon Part-Dieu;St André le Gaz;93 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Lyon Perrache;Chambéry-Challes les Eaux;135 km;1.5kVcc & 25kVac;Gabarit continental;Par St-André-le-Gaz;X
+Lyon Part-Dieu;Chambéry-Challes les Eaux;135 km;1.5kVcc & 25kVac;Gabarit continental;Par St-André-le-Gaz;
+Grenoble;St André le Gaz;67 km;25kVac;Gabarit continental;;X
+Lyon Part-Dieu;Grenoble;161 km;1.5kVcc & 25kVac;Gabarit continental;;
+Lyon Perrache;Grenoble;161 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Mainz Hbf;Bingen am Rhein Hbf;30 km;15kVac;Gabarit continental;;
+Bingen am Rhein Hbf;Boppard Hbf;41 km;15kVac;Gabarit continental;;
+Boppard Hbf;Koblenz Hbf;19 km;15kVac;Gabarit continental;;
+Koblenz Hbf;Koblenz Lützel;2 km;15kVac;Gabarit continental;;
+Koblenz Lützel;Andernach;16 km;15kVac;Gabarit continental;;
+Andernach;Remagen;21 km;15kVac;Gabarit continental;;
+Remagen;Bonn Mehlem;11 km;15kVac;Gabarit continental;;
+Bonn Mehlem;Bonn Hbf;9 km;15kVac;Gabarit continental;;
+Bonn Hbf;Köln Hbf;33 km;15kVac;Gabarit continental;;
+Köln Hbf;Köln Messe/Deutz;1 km;15kVac;Gabarit continental;;
+Köln Messe/Deutz;Köln-Bonn Flughafen;14 km;15kVac;Gabarit continental;;
+Köln-Bonn Flughafen;Troisdorf;12 km;15kVac;Gabarit continental;;
+Köln Messe/Deutz;Troisdorf;19 km;15kVac;Gabarit continental;;
+Troisdorf;Siegburg/Bonn;4 km;15kVac;Gabarit continental;;
+Mainz Hbf;Koblenz Hbf;90 km;15kVac;Gabarit continental;;
+Koblenz Hbf;Andernach;18 km;15kVac;Gabarit continental;;
+Koblenz Hbf;Bonn Hbf;59 km;15kVac;Gabarit continental;;
+Mainz Hbf;Bonn Hbf;149 km;15kVac;Gabarit continental;;
+Koblenz Hbf;Köln Hbf;92 km;15kVac;Gabarit continental;;
+Mainz Hbf;Köln Hbf;182 km;15kVac;Gabarit continental;;
+Köln Hbf;Köln-Bonn Flughafen;15 km;15kVac;Gabarit continental;;
+Köln Hbf;Troisdorf;20 km;15kVac;Gabarit continental;;
+Köln-Bonn Flughafen;Siegburg/Bonn;16 km;15kVac;Gabarit continental;;
+Köln Hbf;Siegburg/Bonn;24 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Bonn Hbf;187 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Köln Hbf;195 km;15kVac;Gabarit continental;;
+Frankfurt am Main Flughafen;Bonn Hbf;177 km;15kVac;Gabarit continental;;
+Frankfurt am Main Flughafen;Köln Hbf;210 km;15kVac;Gabarit continental;;
+Redon;Questembert;29 km;25kVac;Gabarit continental;;
+Questembert;Vannes;25 km;25kVac;Gabarit continental;;
+Redon;Vannes;54 km;25kVac;Gabarit continental;;
+Nantes;Vannes;135 km;25kVac;Gabarit continental;;
+Vannes;Auray;19 km;25kVac;Gabarit continental;;
+Auray;Quiberon;27 km;Non-electrifie;Gabarit continental;;
+Auray;Lorient;35 km;25kVac;Gabarit continental;;
+Vannes;Lorient;54 km;25kVac;Gabarit continental;;
+Redon;Lorient;108 km;25kVac;Gabarit continental;;
+Nantes;Lorient;189 km;25kVac;Gabarit continental;;
+Lorient;Rosporden;45 km;25kVac;Gabarit continental;;
+Rosporden;Quimper;20 km;25kVac;Gabarit continental;;
+Lorient;Quimper;65 km;25kVac;Gabarit continental;;
+Redon;Quimper;173 km;25kVac;Gabarit continental;;
+Nantes;Quimper;254 km;25kVac;Gabarit continental;;
+Quimper;Châteaulin-Embranchement;30 km;Non-electrifie;Gabarit continental;;
+Châteaulin-Embranchement;Landerneau;54 km;Non-electrifie;Gabarit continental;;
+Quimper;Landerneau;84 km;Non-electrifie;Gabarit continental;;
+Brest;Landerneau;19 km;25kVac;Gabarit continental;;
+Brest;Quimper;103 km;Non-electrifie;Gabarit continental;;
+Morlaix;Landerneau;41 km;25kVac;Gabarit continental;;
+Annemasse;Genève Eaux-Vives;6 km;25kVac;Gabarit continental;Avant CEVA;
+Genève-Cornavin;Genève Eaux-Vives;10 km;15kVac;Gabarit continental;;
+Genève Aéroport;Genève Eaux-Vives;12 km;15kVac;Gabarit continental;;
+Genève-Cornavin;Annemasse;16 km;15kVac;Gabarit continental;;
+Genève Aéroport;Annemasse;18 km;15kVac;Gabarit continental;;
+Le Mans;Alençon;56 km;Non-electrifie;Gabarit continental;;X
+Alençon;Surdon;28 km;Non-electrifie;Gabarit continental;;X
+Surdon;Argentan;15 km;Non-electrifie;Gabarit continental;;X
+Argentan;Mézidon;43 km;Non-electrifie;Gabarit continental;;
+Plaisir-Grignon;Dreux;49 km;25kVac;Gabarit continental;;X
+Surdon;Dreux;101 km;Non-electrifie;Gabarit continental;;X
+Argentan;Folligny;116 km;Non-electrifie;Gabarit continental;;X
+Folligny;Granville;14 km;Non-electrifie;Gabarit continental;;X
+Mézidon;Lisieux;25 km;25kVac;Gabarit continental;;
+Caen;Mézidon;23 km;25kVac;Gabarit continental;;
+Lisieux;Serquigny;41 km;25kVac;Gabarit continental;;
+Serquigny;Évreux-Normandie;42 km;25kVac;Gabarit continental;;X
+Mantes-la-Jolie;Évreux-Normandie;50 km;25kVac;Gabarit continental;;X
+Caen;Lison;56 km;25kVac;Gabarit continental;;X
+Cherbourg;Lison;75 km;25kVac;Gabarit continental;;X
+Lison;St-Lô;18 km;25kVac;Gabarit continental;;
+St-Lô;Coutances;30 km;Non-electrifie;Gabarit continental;;
+Folligny;Coutances;27 km;Non-electrifie;Gabarit continental;;
+Folligny;Avranches;19 km;Non-electrifie;Gabarit continental;;X
+Avranches;Pontorson-Mont-St-Michel;22 km;Non-electrifie;Gabarit continental;;X
+Pontorson-Mont-St-Michel;Dol-de-Bretagne;21 km;Non-electrifie;Gabarit continental;;X
+Rennes;Dol-de-Bretagne;58 km;25kVac;Gabarit continental;;
+Dol-de-Bretagne;St-Malo;23 km;25kVac;Gabarit continental;;X
+Le Mans;Argentan;99 km;Non-electrifie;Gabarit continental;;
+Le Mans;Mézidon;142 km;Non-electrifie;Gabarit continental;;
+Le Mans;Caen;165 km;Non-electrifie;Gabarit continental;;
+Caen;Argentan;66 km;Non-electrifie;Gabarit continental;;X
+Versailles-Chantiers;Dreux;65 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Paris Montparnasse;Dreux;82 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Argentan;Dreux;116 km;Non-electrifie;Gabarit continental;;
+Paris Montparnasse;Argentan;198 km;Non-electrifie;Gabarit continental;;
+Argentan;Granville;130 km;Non-electrifie;Gabarit continental;;X
+Caen;Lisieux;48 km;25kVac;Gabarit continental;;X
+Lisieux;Évreux-Normandie;83 km;25kVac;Gabarit continental;;X
+Caen;Évreux-Normandie;131 km;25kVac;Gabarit continental;;
+Mantes-la-Jolie;Caen;181 km;25kVac;Gabarit continental;;
+Caen;St-Lô;74 km;25kVac;Gabarit continental;;
+Caen;Coutances;104 km;Non-electrifie;Gabarit continental;;
+Folligny;St-Lô;57 km;Non-electrifie;Gabarit continental;;
+Granville;St-Lô;71 km;Non-electrifie;Gabarit continental;;
+Caen;Granville;145 km;Non-electrifie;Gabarit continental;;
+Granville;Coutances;41 km;Non-electrifie;Gabarit continental;;
+Granville;Avranches;33 km;Non-electrifie;Gabarit continental;;
+Caen;Folligny;131 km;Non-electrifie;Gabarit continental;;
+Caen;Avranches;150 km;Non-electrifie;Gabarit continental;;
+Folligny;Pontorson-Mont-St-Michel;41 km;Non-electrifie;Gabarit continental;;
+Folligny;Dol-de-Bretagne;62 km;Non-electrifie;Gabarit continental;;
+Rennes;Caen;251 km;Non-electrifie;Gabarit continental;;
+Rennes;St-Malo;81 km;25kVac;Gabarit continental;;
+Liège-Guillemins;Angleur;3 km;3kVcc;Gabarit continental;;
+Angleur;Pepinster;18 km;3kVcc;Gabarit continental;;
+Pepinster;Verviers-Central;4 km;3kVcc;Gabarit continental;;
+Verviers-Central;Welkenraedt;13 km;3kVcc;Gabarit continental;;
+Welkenraedt;Aachen Hbf;16 km;3kVcc;Gabarit continental;;
+Liège-Guillemins;Verviers-Central;25 km;3kVcc;Gabarit continental;;
+Verviers-Central;Aachen Hbf;29 km;3kVcc;Gabarit continental;;
+Liège-Guillemins;Aachen Hbf;54 km;3kVcc;Gabarit continental;;
+Aachen Hbf;Stolberg (Rheinl) Hbf;10 km;15kVac;Gabarit continental;;
+Stolberg (Rheinl) Hbf;Eschweiler Hbf;3 km;15kVac;Gabarit continental;;
+Eschweiler Hbf;Langerwehe;8 km;15kVac;Gabarit continental;;
+Langerwehe;Düren;10 km;15kVac;Gabarit continental;;
+Düren;Horrem;20 km;15kVac;Gabarit continental;;
+Köln Hbf;Horrem;19 km;15kVac;Gabarit continental;;
+Aachen Hbf;Horrem;51 km;15kVac;Gabarit continental;;
+Köln Hbf;Aachen Hbf;70 km;15kVac;Gabarit continental;;X
+La Roche sur Foron;St-Gervais-les-Bains;47 km;25kVac;Gabarit continental;;X
+Annemasse;St-Gervais-les-Bains;64 km;25kVac;Gabarit continental;;
+Annemasse;Évian-les-Bains;39 km;25kVac;Gabarit continental;;X
+St-Gervais-les-Bains;Chamonix-Mont-Blanc;19 km;850Vcc 3eme rail;Ecartement metrique;;
+Chamonix-Mont-Blanc;Vallorcine;15 km;850Vcc 3eme rail;Ecartement metrique;;
+St-Gervais-les-Bains;Vallorcine;34 km;850Vcc 3eme rail;Ecartement metrique;;
+Paris Gare de Lyon;Villeneuve-St-Georges;14 km;1.5kVcc;Gabarit continental;;
+Villeneuve-St-Georges;Melun;30 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Melun;44 km;1.5kVcc;Gabarit continental;;
+Melun;Montereau;35 km;1.5kVcc;Gabarit continental;;
+Montereau;Sens;34 km;1.5kVcc;Gabarit continental;;
+Paris Gare de Lyon;Sens;113 km;1.5kVcc;Gabarit continental;;
+Laroche-Migennes;Sens;42 km;1.5kVcc;Gabarit continental;;
+Laroche-Migennes;Les Laumes-Alésia;102 km;1.5kVcc;Gabarit continental;;
+Dijon-Ville;Les Laumes-Alésia;56 km;1.5kVcc;Gabarit continental;;
+Dijon-Ville;Beaune;52 km;1.5kVcc;Gabarit continental;;
+Beaune;Chagny;15 km;1.5kVcc;Gabarit continental;;
+Dijon-Ville;Chagny;67 km;1.5kVcc;Gabarit continental;;
+Chagny;Chalon-sur-Saône;16 km;1.5kVcc;Gabarit continental;;
+Dijon-Ville;Chalon-sur-Saône;83 km;1.5kVcc;Gabarit continental;;
+Chalon-sur-Saône;Mâcon;58 km;1.5kVcc;Gabarit continental;;
+Dijon-Ville;Mâcon;161 km;1.5kVcc;Gabarit continental;;
+Mâcon;Crèches-sur-Saône;7 km;1.5kVcc;Gabarit continental;;
+Crèches-sur-Saône;Villefranche-sur-Saône;30 km;1.5kVcc;Gabarit continental;;
+Mâcon;Villefranche-sur-Saône;37 km;1.5kVcc;Gabarit continental;;
+Villefranche-sur-Saône;St-Germain au Mont-d\'Or;14 km;1.5kVcc;Gabarit continental;;
+St-Germain au Mont-d\'Or;Collonges-Fontaines;9 km;1.5kVcc;Gabarit continental;;
+Collonges-Fontaines;Lyon Vaise;7 km;1.5kVcc;Gabarit continental;;
+St-Germain au Mont-d\'Or;Lyon Vaise;16 km;1.5kVcc;Gabarit continental;;
+Lyon Perrache;Lyon Vaise;5 km;1.5kVcc;Gabarit continental;;
+Lyon Perrache;St-Germain au Mont-d\'Or;21 km;1.5kVcc;Gabarit continental;;
+Lyon Perrache;Villefranche-sur-Saône;35 km;1.5kVcc;Gabarit continental;;
+Lyon Perrache;Mâcon;72 km;1.5kVcc;Gabarit continental;;
+Mâcon;St-Germain au Mont-d\'Or;51 km;1.5kVcc;Gabarit continental;;
+Lyon Part-Dieu;Collonges-Fontaines;8 km;1.5kVcc;Gabarit continental;;
+Lyon Part-Dieu;St-Germain au Mont-d\'Or;17 km;1.5kVcc;Gabarit continental;;
+Lyon Part-Dieu;Villefranche-sur-Saône;31 km;1.5kVcc;Gabarit continental;;
+Lyon Part-Dieu;Mâcon;68 km;1.5kVcc;Gabarit continental;;
+Mâcon;Pont-de-Veyle;8 km;1.5kVcc;Gabarit continental;;
+Pont-de-Veyle;Bourg-en-Bresse;29 km;1.5kVcc;Gabarit continental;;
+Mâcon;Bourg-en-Bresse;37 km;1.5kVcc;Gabarit continental;;
+Ambérieu;Bourg-en-Bresse;31 km;1.5kVcc;Gabarit continental;;
+Ambérieu;Mâcon;68 km;1.5kVcc;Gabarit continental;;
+Ambérieu;Chambéry-Challes les Eaux;86 km;1.5kVcc;Gabarit continental;;
+Genève-Cornavin;La Plaine;15 km;1.5kVcc;Gabarit continental;Avant 2014;
+Genève-Cornavin;La Plaine;15 km;25kVac;Gabarit continental;Après 2014;X
+Bellegarde;La Plaine;18 km;1.5kVcc;Gabarit continental;Avant 2014;
+Bellegarde;La Plaine;18 km;25kVac;Gabarit continental;Après 2014;
+Genève-Cornavin;Bellegarde;33 km;1.5kVcc;Gabarit continental;Avant 2014;
+Genève-Cornavin;Bellegarde;33 km;25kVac;Gabarit continental;Après 2014;X
+Annemasse;Bellegarde;38 km;25kVac;Gabarit continental;;X
+Culoz;Bellegarde;33 km;1.5kVcc;Gabarit continental;;X
+Bourg-en-Bresse;Nurieux;33 km;1.5kVcc & 25kVac;Gabarit continental;;
+Nurieux;Brion-Montréal-La Cluse;3 km;25kVac;Gabarit continental;;
+Bellegarde;Brion-Montréal-La Cluse;29 km;25kVac;Gabarit continental;;
+Bourg-en-Bresse;Bellegarde;65 km;1.5kVcc & 25kVac;Gabarit continental;;X
+Bellegarde;Nurieux;32 km;25kVac;Gabarit continental;;
+Folkestone;Ashford;21 km;750Vcc 3eme rail;Gabarit britannique;;
+Annemasse;Genève Eaux-Vives;6 km;15kVac;Gabarit continental;CEVA;
+Stuttgart Hbf;Stuttgart Bad Cannstatt;3 km;15kVac;Gabarit continental;;
+Stuttgart Bad Cannstatt;Stuttgart Neckarpark;2 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Stuttgart Neckarpark;5 km;15kVac;Gabarit continental;;
+Stuttgart Neckarpark;Esslingen (Neckar);8 km;15kVac;Gabarit continental;;
+Stuttgart Bad Cannstatt;Esslingen (Neckar);10 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Esslingen (Neckar);13 km;15kVac;Gabarit continental;;
+Esslingen (Neckar);Plochingen;9 km;15kVac;Gabarit continental;;
+Stuttgart Bad Cannstatt;Plochingen;19 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Plochingen;22 km;15kVac;Gabarit continental;;
+Plochingen;Göppingen;19 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Göppingen;43 km;15kVac;Gabarit continental;;
+Göppingen;Süßen;8 km;15kVac;Gabarit continental;;
+Süßen;Geislingen (Steige);11 km;15kVac;Gabarit continental;;
+Göppingen;Geislingen (Steige);19 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Geislingen (Steige);62 km;15kVac;Gabarit continental;;
+Geislingen (Steige);Ulm Hbf;33 km;15kVac;Gabarit continental;;
+Göppingen;Ulm Hbf;52 km;15kVac;Gabarit continental;;
+Stuttgart Hbf;Ulm Hbf;95 km;15kVac;Gabarit continental;;
+Ulm Hbf;Neu-Ulm;2 km;15kVac;Gabarit continental;;
+Neu-Ulm;Günzburg;22 km;15kVac;Gabarit continental;;
+Ulm Hbf;Günzburg;24 km;15kVac;Gabarit continental;;
+Günzburg;Gessertshausen;45 km;15kVac;Gabarit continental;;
+Gessertshausen;Augsburg-Oberhausen;15 km;15kVac;Gabarit continental;;
+Günzburg;Augsburg-Oberhausen;60 km;15kVac;Gabarit continental;;
+Augsburg-Oberhausen;Augsburg Hbf;2 km;15kVac;Gabarit continental;;
+Günzburg;Augsburg Hbf;62 km;15kVac;Gabarit continental;;
+Ulm Hbf;Augsburg Hbf;86 km;15kVac;Gabarit continental;;
+Augsburg Hbf;Augsburg-Hochzoll;5 km;15kVac;Gabarit continental;;
+Augsburg-Hochzoll;Mering;11 km;15kVac;Gabarit continental;;
+Augsburg Hbf;Mering;16 km;15kVac;Gabarit continental;;
+Mering;Mammendorf;15 km;15kVac;Gabarit continental;;
+Mammendorf;Olching;12 km;15kVac;Gabarit continental;;
+Olching;München-Pasing;12 km;15kVac;Gabarit continental;;
+Mammendorf;München-Pasing;24 km;15kVac;Gabarit continental;;
+München-Pasing;München Hbf;7 km;15kVac;Gabarit continental;;
+Mammendorf;München Hbf;31 km;15kVac;Gabarit continental;;
+Augsburg Hbf;München Hbf;62 km;15kVac;Gabarit continental;;
+München Hbf;München Ost;10 km;15kVac;Gabarit continental;;
+München Ost;Berg am Laim;2 km;15kVac;Gabarit continental;;
+Berg am Laim;München Johanneskirchen;5 km;15kVac;Gabarit continental;;
+München Johanneskirchen;Ismaning;7 km;15kVac;Gabarit continental;;
+Ismaning;München Flughafen;19 km;15kVac;Gabarit continental;;
+München Ost;München Johanneskirchen;7 km;15kVac;Gabarit continental;;
+München Ost;Ismaning;14 km;15kVac;Gabarit continental;;
+München Ost;München Flughafen;33 km;15kVac;Gabarit continental;;
+Berg am Laim;München-Trudering;2 km;15kVac;Gabarit continental;;
+München-Trudering;Grafing;23 km;15kVac;Gabarit continental;;
+München Ost;Grafing;27 km;15kVac;Gabarit continental;;
+Grafing;Rosenheim;27 km;15kVac;Gabarit continental;;
+München Ost;Rosenheim;54 km;15kVac;Gabarit continental;;
+München Hbf;Rosenheim;64 km;15kVac;Gabarit continental;;
+Rosenheim;Kufstein;34 km;15kVac;Gabarit continental;;
+Kufstein;Wörgl Hbf;13 km;15kVac;Gabarit continental;;
+Wörgl Hbf;Jenbach;25 km;15kVac;Gabarit continental;;
+Kufstein;Jenbach;25 km;15kVac;Gabarit continental;;
+München Hbf;Kufstein;98 km;15kVac;Gabarit continental;;
+Jenbach;Innsbruck Hbf;40 km;15kVac;Gabarit continental;;
+Wörgl Hbf;Innsbruck Hbf;65 km;15kVac;Gabarit continental;;
+Kufstein;Innsbruck Hbf;78 km;15kVac;Gabarit continental;;
+München Hbf;Innsbruck Hbf;176 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;Innsbruck Westbahnhof;2 km;15kVac;Gabarit continental;;
+Innsbruck Westbahnhof;Telfs-Pfaffenhofen;25 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;Telfs-Pfaffenhofen;27 km;15kVac;Gabarit continental;;
+Telfs-Pfaffenhofen;Ötztal;19 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;Ötztal;46 km;15kVac;Gabarit continental;;
+Ötztal;Landeck-Zams;26 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;Landeck-Zams;72 km;15kVac;Gabarit continental;;
+Landeck-Zams;St. Anton am Arlberg;28 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;St. Anton am Arlberg;128 km;15kVac;Gabarit continental;;
+St. Anton am Arlberg;Langen am Arlberg;11 km;15kVac;Gabarit continental;;
+Langen am Arlberg;Bludenz;26 km;15kVac;Gabarit continental;;
+St. Anton am Arlberg;Bludenz;37 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;Bludenz;165 km;15kVac;Gabarit continental;;
+Bludenz;Feldkirch;20 km;15kVac;Gabarit continental;;
+St. Anton am Arlberg;Feldkirch;57 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;Feldkirch;185 km;15kVac;Gabarit continental;;
+Feldkirch;Schaan-Vaduz;16 km;15kVac;Gabarit continental;;
+Schaan-Vaduz;Buchs;3 km;15kVac;Gabarit continental;;
+Feldkirch;Buchs;19 km;15kVac;Gabarit continental;;
+Innsbruck Hbf;Buchs;204 km;15kVac;Gabarit continental;;
+Buchs;Sargans;16 km;15kVac;Gabarit continental;;
+Sargans;Landquart;13 km;15kVac;Gabarit continental;;
+Landquart;Chur;12 km;15kVac;Gabarit continental;;
+Sargans;Chur;25 km;15kVac;Gabarit continental;;
+Buchs;Chur;41 km;15kVac;Gabarit continental;;
+Sargans;Unterterzen;18 km;15kVac;Gabarit continental;;
+Unterterzen;Ziegelbrücke;15 km;15kVac;Gabarit continental;;
+Sargans;Ziegelbrücke;34 km;15kVac;Gabarit continental;;
+Ziegelbrücke;Siebnen-Wangen;14 km;15kVac;Gabarit continental;;
+Siebnen-Wangen;Pfäffikon SZ;10 km;15kVac;Gabarit continental;;
+Pfäffikon SZ;Wädenswil;9 km;15kVac;Gabarit continental;;
+Wädenswil;Thalwil;12 km;15kVac;Gabarit continental;;
+Thalwil;Zürich Wiedikon;9 km;15kVac;Gabarit continental;;
+Zürich HB;Zürich Wiedikon;2 km;15kVac;Gabarit continental;;
+Zürich HB;Thalwil;11 km;15kVac;Gabarit continental;Via Linksufrige Zürichseebahn;
+Zürich HB;Thalwil;12 km;15kVac;Gabarit continental;Via Zimmerberg-Basistunnel;
+Zürich HB;Sargans;90 km;15kVac;Gabarit continental;Via Linksufrige Zürichseebahn;
+Zürich HB;Sargans;91 km;15kVac;Gabarit continental;Via Zimmerberg-Basistunnel;
+Zürich HB;Chur;115 km;15kVac;Gabarit continental;Via Linksufrige Zürichseebahn;
+Zürich HB;Chur;116 km;15kVac;Gabarit continental;Via Zimmerberg-Basistunnel;
+Modane;Bardonecchia;18 km;3kVcc;Gabarit continental;;
+Bardonecchia;Bussoleno;41 km;3kVcc;Gabarit continental;;
+Bussoleno;Avigliana;21 km;3kVcc;Gabarit continental;;
+Bardonecchia;Avigliana;62 km;3kVcc;Gabarit continental;;
+Avigliana;Torino Porta Nuova;24 km;3kVcc;Gabarit continental;;
+Bardonecchia;Torino Porta Nuova;86 km;3kVcc;Gabarit continental;;
+Avigliana;Torino Porta Susa;23 km;3kVcc;Gabarit continental;;
+Bardonecchia;Torino Porta Susa;85 km;3kVcc;Gabarit continental;;
+Torino Porta Nuova;Torino Porta Susa;5 km;3kVcc;Gabarit continental;;
+Torino Porta Susa;Torino Stura;7 km;3kVcc;Gabarit continental;;
+Torino Stura;Settimo;5 km;3kVcc;Gabarit continental;;
+Settimo;Chivasso;11 km;3kVcc;Gabarit continental;;
+Chivasso;Castelrosso;4 km;3kVcc;Gabarit continental;;
+Castelrosso;Bianzè;19 km;3kVcc;Gabarit continental;;
+Chivasso;Bianzè;23 km;3kVcc;Gabarit continental;;
+Torino Stura;Chivasso;16 km;3kVcc;Gabarit continental;;
+Torino Porta Susa;Chivasso;23 km;3kVcc;Gabarit continental;;
+Bianzè;Santhià;8 km;3kVcc;Gabarit continental;;
+Chivasso;Santhià;31 km;3kVcc;Gabarit continental;;
+Santhià;Vercelli;19 km;3kVcc;Gabarit continental;;
+Torino Stura;Vercelli;66 km;3kVcc;Gabarit continental;;
+Torino Porta Susa;Vercelli;73 km;3kVcc;Gabarit continental;;
+Torino Porta Nuova;Vercelli;78 km;3kVcc;Gabarit continental;;
+Vercelli;Novara;22 km;3kVcc;Gabarit continental;;
+Novara;Rho;36 km;3kVcc;Gabarit continental;;
+Rho;Rho Fiera;4 km;3kVcc;Gabarit continental;;
+Rho Fiera;Milano Certosa;4 km;3kVcc;Gabarit continental;;
+Rho;Milano Certosa;8 km;3kVcc;Gabarit continental;;
+Milano Certosa;Milano Porta Garibaldi;5 km;3kVcc;Gabarit continental;;
+Rho Fiera;Milano Porta Garibaldi;9 km;3kVcc;Gabarit continental;;
+Rho;Milano Porta Garibaldi;13 km;3kVcc;Gabarit continental;;
+Milano Certosa;Milano Centrale;8 km;3kVcc;Gabarit continental;;
+Rho Fiera;Milano Centrale;12 km;3kVcc;Gabarit continental;;
+Rho;Milano Centrale;16 km;3kVcc;Gabarit continental;;
+Milano Porta Garibaldi;Milano Centrale;11 km;3kVcc;Gabarit continental;Via Ferrovia Torino-Milano;
+Milano Porta Garibaldi;Milano Centrale;5 km;3kVcc;Gabarit continental;Via Garibaldi Tunnel;
+Paris Austerlitz;Choisy-le-Roi;9 km;1.5kVcc;Gabarit continental;;
+Juvisy;Choisy-le-Roi;10 km;1.5kVcc;Gabarit continental;;
+Juvisy;Paris Orsay;23 km;1.5kVcc;Gabarit continental;;
+Paris Orsay;Pont de Rungis / Aéroport d\'Orly;20 km;1.5kVcc;Gabarit continental;;
+Juvisy;Brétigny;14 km;1.5kVcc;Gabarit continental;;X
+Paris Austerlitz;Brétigny;33 km;1.5kVcc;Gabarit continental;;
+Paris Orsay;Brétigny;37 km;1.5kVcc;Gabarit continental;;
+Brétigny;Étampes;25 km;1.5kVcc;Gabarit continental;;X
+Paris Austerlitz;Étampes;58 km;1.5kVcc;Gabarit continental;;
+Paris Orsay;Étampes;62 km;1.5kVcc;Gabarit continental;;
+Étampes;Toury;32 km;1.5kVcc;Gabarit continental;;
+Les Aubrais - Orléans;Toury;31 km;1.5kVcc;Gabarit continental;;
+Orléans;Toury;33 km;1.5kVcc;Gabarit continental;;
+Les Aubrais - Orléans;Étampes;63 km;1.5kVcc;Gabarit continental;;
+Orléans;Étampes;65 km;1.5kVcc;Gabarit continental;;
+Paris Orsay;Les Aubrais - Orléans;123 km;1.5kVcc;Gabarit continental;;
+Paris Orsay;Orléans;125 km;1.5kVcc;Gabarit continental;;
+Les Aubrais - Orléans;Salbris;60 km;1.5kVcc;Gabarit continental;;
+Orléans;Salbris;60 km;1.5kVcc;Gabarit continental;;
+Vierzon-Ville;Salbris;22 km;1.5kVcc;Gabarit continental;;
+Vierzon-Ville;Orléans;82 km;1.5kVcc;Gabarit continental;;
+Vierzon-Ville;Vierzon-Forges;8 km;1.5kVcc;Gabarit continental;;
+Vierzon-Forges;Issoudun;32 km;1.5kVcc;Gabarit continental;;
+Vierzon-Ville;Issoudun;32 km;1.5kVcc;Gabarit continental;;
+Issoudun;Châteauroux;27 km;1.5kVcc;Gabarit continental;;
+Châteauroux;Argenton-sur-Creuse;31 km;1.5kVcc;Gabarit continental;;
+Argenton-sur-Creuse;La Souterraine;46 km;1.5kVcc;Gabarit continental;;
+La Souterraine;Bersac;20 km;1.5kVcc;Gabarit continental;;
+Châteauroux;La Souterraine;77 km;1.5kVcc;Gabarit continental;;
+Bersac;St-Sulpice-Laurière;6 km;1.5kVcc;Gabarit continental;;
+St-Sulpice-Laurière;Le Palais;25 km;1.5kVcc;Gabarit continental;;
+Limoges-Bénédictins;Le Palais;8 km;1.5kVcc;Gabarit continental;;
+Limoges-Bénédictins;St-Sulpice-Laurière;33 km;1.5kVcc;Gabarit continental;;
+Limoges-Bénédictins;La Souterraine;59 km;1.5kVcc;Gabarit continental;;
+Limoges-Bénédictins;Uzerche;59 km;1.5kVcc;Gabarit continental;;
+Brive-la-Gaillarde;Uzerche;40 km;1.5kVcc;Gabarit continental;;
+Brive-la-Gaillarde;Souillac;37 km;1.5kVcc;Gabarit continental;;
+Souillac;Cahors;63 km;1.5kVcc;Gabarit continental;;
+Brive-la-Gaillarde;Cahors;100 km;1.5kVcc;Gabarit continental;;
+Montauban-Ville-Bourbon;Cahors;63 km;1.5kVcc;Gabarit continental;;
+Poitiers;Mignaloux-Nouaillé;11 km;Non-electrifie;Gabarit continental;;
+Mignaloux-Nouaillé;Le Dorat;71 km;Non-electrifie;Gabarit continental;;
+Poitiers;Le Dorat;82 km;Non-electrifie;Gabarit continental;;
+Limoges-Bénédictins;Le Dorat;55 km;Non-electrifie;Gabarit continental;;
+Limoges-Bénédictins;Poitiers;137 km;Non-electrifie;Gabarit continental;;
+Le Dorat;Bellac;13 km;Non-electrifie;Gabarit continental;;
+Limoges-Bénédictins;Bellac;43 km;Non-electrifie;Gabarit continental;;
+Toulouse-Matabiau;Toulouse-St-Agne;4 km;1.5kVcc;Gabarit continental;;
+Toulouse-St-Agne;Portet-St-Simon;8 km;1.5kVcc;Gabarit continental;;
+Toulouse-Matabiau;Portet-St-Simon;12 km;1.5kVcc;Gabarit continental;;
+Portet-St-Simon;Muret;9 km;1.5kVcc;Gabarit continental;;
+Toulouse-Matabiau;Muret;21 km;1.5kVcc;Gabarit continental;;
+Muret;Boussens;45 km;1.5kVcc;Gabarit continental;;
+Boussens;Montrejeau-Gourdan-Polignan;41 km;1.5kVcc;Gabarit continental;;
+Montrejeau-Gourdan-Polignan;Lannemezan;17 km;1.5kVcc;Gabarit continental;;
+Toulouse-Matabiau;Montrejeau-Gourdan-Polignan;107 km;1.5kVcc;Gabarit continental;;
+Toulouse-Matabiau;Lannemezan;124 km;1.5kVcc;Gabarit continental;;
+Lannemezan;Tarbes;36 km;1.5kVcc;Gabarit continental;;
+Toulouse-Matabiau;Tarbes;160 km;1.5kVcc;Gabarit continental;;
+Montrejeau-Gourdan-Polignan;Tarbes;53 km;1.5kVcc;Gabarit continental;;
+Tarbes;Lourdes;21 km;1.5kVcc;Gabarit continental;;
+Lourdes;Pau;39 km;1.5kVcc;Gabarit continental;;
+Pau;Orthez;40 km;1.5kVcc;Gabarit continental;;
+Orthez;Puyoô;14 km;1.5kVcc;Gabarit continental;;
+Puyoô;Bayonne;51 km;1.5kVcc;Gabarit continental;;
+Orthez;Bayonne;65 km;1.5kVcc;Gabarit continental;;
+Pau;Bayonne;105 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Talence-Médoquine;4 km;1.5kVcc;Gabarit continental;;
+Pessac;Talence-Médoquine;3 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Pessac;7 km;1.5kVcc;Gabarit continental;;
+Pessac;Facture-Biganos;32 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Facture-Biganos;39 km;1.5kVcc;Gabarit continental;;
+Arcachon;Facture-Biganos;19 km;1.5kVcc;Gabarit continental;;
+Facture-Biganos;Morcenx;69 km;1.5kVcc;Gabarit continental;;
+Morcenx;Dax;39 km;1.5kVcc;Gabarit continental;;
+Bordeaux St-Jean;Dax;147 km;1.5kVcc;Gabarit continental;;
+Puyoô;Dax;30 km;1.5kVcc;Gabarit continental;;
+Bayonne;Dax;50 km;1.5kVcc;Gabarit continental;;
+Bayonne;Biarritz;10 km;1.5kVcc;Gabarit continental;;
+Biarritz;St-Jean-de-Luz-Ciboure;13 km;1.5kVcc;Gabarit continental;;
+Hendaye;St-Jean-de-Luz-Ciboure;17 km;1.5kVcc;Gabarit continental;;
+Hendaye;Bayonne;40 km;1.5kVcc;Gabarit continental;;
+London Waterloo;Bank (London);2 km;750Vcc 3eme rail;;;
+Grenoble;Jarrie-Vizille;13 km;Non-electrifie;Gabarit continental;;X
+Jarrie-Vizille;St Georges-de-Commiers;6 km;Non-electrifie;Gabarit continental;;X
+St Georges-de-Commiers;Clelles-Mens;38 km;Non-electrifie;Gabarit continental;;X
+Grenoble;Clelles-Mens;57 km;Non-electrifie;Gabarit continental;;
+Clelles-Mens;Aspres-sur-Buëch;46 km;Non-electrifie;Gabarit continental;;X
+Aspres-sur-Buëch;Veynes-Dévoluy;7 km;Non-electrifie;Gabarit continental;;X
+Grenoble;Veynes-Dévoluy;110 km;Non-electrifie;Gabarit continental;;
+Veynes-Dévoluy;Gap;26 km;Non-electrifie;Gabarit continental;;X
+Grenoble;Gap;136 km;Non-electrifie;Gabarit continental;;
+Gap;Briançon;83 km;Non-electrifie;Gabarit continental;;
+Grenoble;Briançon;219 km;Non-electrifie;Gabarit continental;;
+Veynes-Dévoluy;Briançon;109 km;Non-electrifie;Gabarit continental;;
+Harringay;Alexandra Palace;3 km;25kVac;Gabarit britannique;;
+Alexandra Palace;New Southgate;2 km;25kVac;Gabarit britannique;;
+New Southgate;Hatfield;18 km;25kVac;Gabarit britannique;;
+Hatfield;Welwyn Garden City;4 km;25kVac;Gabarit britannique;;
+Welwyn Garden City;Stevenage;12 km;25kVac;Gabarit britannique;;
+Stevenage;Hitchin;7 km;25kVac;Gabarit britannique;;
+Hitchin;Sandy;20 km;25kVac;Gabarit britannique;;
+Sandy;Huntingdon;24 km;25kVac;Gabarit britannique;;
+Huntingdon;Peterborough;28 km;25kVac;Gabarit britannique;;
+Peterborough;Grantham;47 km;25kVac;Gabarit britannique;;
+Grantham;Newark North Gate;24 km;25kVac;Gabarit britannique;;
+Newark North Gate;Retford;29 km;25kVac;Gabarit britannique;;
+Retford;Doncaster;28 km;25kVac;Gabarit britannique;;
+Doncaster;York;52 km;25kVac;Gabarit britannique;;
+West Hampstead;Alexandra Palace;10 km;25kVac;Gabarit britannique;;
+London St Pancras;Alexandra Palace;9 km;25kVac;Gabarit britannique;;
+London King\'s Cross;Alexandra Palace;9 km;25kVac;Gabarit britannique;;
+Alexandra Palace;Welwyn Garden City;24 km;25kVac;Gabarit britannique;;
+London St Pancras;Welwyn Garden City;33 km;25kVac;Gabarit britannique;;
+London King\'s Cross;Welwyn Garden City;33 km;25kVac;Gabarit britannique;;
+London St Pancras;Stevenage;55 km;25kVac;Gabarit britannique;;
+London King\'s Cross;Stevenage;55 km;25kVac;Gabarit britannique;;
+London King\'s Cross;Hitchin;62 km;25kVac;Gabarit britannique;;
+London St Pancras;Hitchin;62 km;25kVac;Gabarit britannique;;
+Hitchin;Huntingdon;44 km;25kVac;Gabarit britannique;;
+Sandy;Peterborough;52 km;25kVac;Gabarit britannique;;
+Hitchin;Peterborough;72 km;25kVac;Gabarit britannique;;
+London King\'s Cross;Sandy;82 km;25kVac;Gabarit britannique;;
+London St Pancras;Sandy;82 km;25kVac;Gabarit britannique;;
+London St Pancras;Peterborough;134 km;25kVac;Gabarit britannique;;
+London King\'s Cross;Peterborough;134 km;25kVac;Gabarit britannique;;
+Peterborough;Doncaster;128 km;25kVac;Gabarit britannique;;
+London King\'s Cross;Doncaster;262 km;25kVac;Gabarit britannique;;
+London St Pancras;Doncaster;262 km;25kVac;Gabarit britannique;;
+Peterborough;York;180 km;25kVac;Gabarit britannique;;
+London King\'s Cross;York;314 km;25kVac;Gabarit britannique;;
+London St Pancras;York;314 km;25kVac;Gabarit britannique;;
+Bruxelles-Nord;Schaerbeek;2 km;3kVcc;Gabarit continental;;
+Schaerbeek;Zaventem;7 km;3kVcc;Gabarit continental;;
+Zaventem;Bruxelles-Aéroport-Zaventem;3 km;3kVcc;Gabarit continental;;
+Bruxelles-Nord;Bruxelles-Aéroport-Zaventem;12 km;3kVcc;Gabarit continental;;
+Bruxelles-Midi;Bruxelles-Aéroport-Zaventem;16 km;3kVcc;Gabarit continental;;
+Schaerbeek;Weerde;13 km;3kVcc;Gabarit continental;;
+Weerde;Mechelen;5 km;3kVcc;Gabarit continental;;
+Schaerbeek;Mechelen;18 km;3kVcc;Gabarit continental;;
+Bruxelles-Aéroport-Zaventem;Mechelen;15 km;3kVcc;Gabarit continental;;
+Mechelen;Mechelen-Nekkerspoel;2 km;3kVcc;Gabarit continental;;
+Mechelen-Nekkerspoel;Duffel;7 km;3kVcc;Gabarit continental;;
+Duffel;Kontich-Lint;5 km;3kVcc;Gabarit continental;;
+Kontich-Lint;Hove (BE);2 km;3kVcc;Gabarit continental;;
+Hove (BE);Antwerpen-Berchem;6 km;3kVcc;Gabarit continental;;
+Mechelen;Antwerpen-Berchem;21 km;3kVcc;Gabarit continental;;
+Antwerpen-Berchem;Antwerpen Centraal;2 km;3kVcc;Gabarit continental;;
+Mechelen;Antwerpen Centraal;23 km;3kVcc;Gabarit continental;;
+Bruxelles-Nord;Mechelen;20 km;3kVcc;Gabarit continental;;
+Bruxelles-Midi;Mechelen;24 km;3kVcc;Gabarit continental;;
+Bruxelles-Nord;Antwerpen Centraal;43 km;3kVcc;Gabarit continental;;
+Bruxelles-Midi;Antwerpen Centraal;47 km;3kVcc;Gabarit continental;;
+Antwerpen Centraal;Antwerpen-Luchtbal;3 km;3kVcc;Gabarit continental;;
+Antwerpen-Luchtbal;Antwerpen-Noorderdokken;2 km;3kVcc;Gabarit continental;;
+Antwerpen-Noorderdokken;Sint-Mariaburg;3 km;3kVcc;Gabarit continental;;
+Sint-Mariaburg;Essen (BE);20 km;3kVcc;Gabarit continental;;
+Antwerpen Centraal;Antwerpen-Noorderdokken;5 km;3kVcc;Gabarit continental;;
+Antwerpen-Noorderdokken;Essen (BE);23 km;3kVcc;Gabarit continental;;
+Antwerpen Centraal;Essen (BE);28 km;3kVcc;Gabarit continental;;
+Essen (BE);Roosendaal;9 km;1.5kVcc;Gabarit continental;;
+Antwerpen Centraal;Roosendaal;37 km;1.5kVcc & 3kVcc;Gabarit continental;;
+Roosendaal;Lage Zwaluwe;23 km;1.5kVcc;Gabarit continental;;
+Lage Zwaluwe;Dordrecht;15 km;1.5kVcc;Gabarit continental;;
+Roosendaal;Dordrecht;38 km;1.5kVcc;Gabarit continental;;
+Dordrecht;Barendrecht;9 km;1.5kVcc;Gabarit continental;;
+Barendrecht;Rotterdam-Lombardijen;3 km;1.5kVcc;Gabarit continental;;
+Rotterdam-Lombardijen;Rotterdam Zuid;3 km;1.5kVcc;Gabarit continental;;
+Rotterdam Centraal;Rotterdam Zuid;4 km;1.5kVcc;Gabarit continental;;
+Rotterdam Centraal;Dordrecht;19 km;1.5kVcc;Gabarit continental;;
+Rotterdam Centraal;Roosendaal;57 km;1.5kVcc;Gabarit continental;;
+Rotterdam Centraal;Antwerpen Centraal;94 km;1.5kVcc & 3kVcc;Gabarit continental;;
+Vierzon-Forges;Bourges;28 km;1.5kVcc;Gabarit continental;;
+Vierzon-Ville;Bourges;36 km;1.5kVcc;Gabarit continental;;
+Bourges;St-Germain du Puy;7 km;25kVac;Gabarit continental;;
+St-Germain du Puy;La Guerche-sur-l\'Aubois;42 km;25kVac;Gabarit continental;;
+Nevers;La Guerche-sur-l\'Aubois;20 km;25kVac;Gabarit continental;;
+Nevers;St-Germain du Puy;62 km;25kVac;Gabarit continental;;
+Nevers;Bourges;69 km;25kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Frankfurt am Main Süd;4 km;15kVac;Gabarit continental;;
+Frankfurt am Main Süd;Offenbach am Main Hbf;6 km;15kVac;Gabarit continental;;
+Offenbach am Main Hbf;Hanau;13 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Hanau;23 km;15kVac;Gabarit continental;;
+Hanau;Gelnhausen;21 km;15kVac;Gabarit continental;;
+Gelnhausen;Wächtersbach;11 km;15kVac;Gabarit continental;;
+Wächtersbach;Schlüchtern;20 km;15kVac;Gabarit continental;;
+Hanau;Schlüchtern;52 km;15kVac;Gabarit continental;;
+Schlüchtern;Flieden;11 km;15kVac;Gabarit continental;;
+Flieden;Fulda;19 km;15kVac;Gabarit continental;;
+Schlüchtern;Fulda;30 km;15kVac;Gabarit continental;;
+Hanau;Fulda;82 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Fulda;105 km;15kVac;Gabarit continental;;
+Hanau;Kahl am Main;7 km;15kVac;Gabarit continental;;
+Kahl am Main;Aschaffenburg Hbf;16 km;15kVac;Gabarit continental;;
+Hanau;Aschaffenburg Hbf;23 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Aschaffenburg Hbf;46 km;15kVac;Gabarit continental;;
+Aschaffenburg Hbf;Laufach;11 km;15kVac;Gabarit continental;;
+Laufach;Lohr;27 km;15kVac;Gabarit continental;;
+Lohr;Langenprozelten;10 km;15kVac;Gabarit continental;;
+Langenprozelten;Gemünden am Main;3 km;15kVac;Gabarit continental;;
+Lohr;Gemünden am Main;13 km;15kVac;Gabarit continental;;
+Aschaffenburg Hbf;Gemünden am Main;51 km;15kVac;Gabarit continental;;
+Gemünden am Main;Würzburg Hbf;38 km;15kVac;Gabarit continental;;
+Aschaffenburg Hbf;Würzburg Hbf;89 km;15kVac;Gabarit continental;;
+Frankfurt am Main Hbf;Würzburg Hbf;135 km;15kVac;Gabarit continental;;
+Offenburg;Biberach;18 km;15kVac;Gabarit continental;;
+Biberach;Hausach;15 km;15kVac;Gabarit continental;;
+Offenburg;Hausach;33 km;15kVac;Gabarit continental;;
+Hausach;Villingen;49 km;15kVac;Gabarit continental;;
+Offenburg;Villingen;82 km;15kVac;Gabarit continental;;
+Villingen;Donaueschingen;14 km;15kVac;Gabarit continental;;
+Donaueschingen;Immendingen;19 km;15kVac;Gabarit continental;;
+Immendingen;Hattingen;5 km;15kVac;Gabarit continental;;
+Hattingen;Engen;11 km;15kVac;Gabarit continental;;
+Immendingen;Engen;16 km;15kVac;Gabarit continental;;
+Engen;Singen;15 km;15kVac;Gabarit continental;;
+Villingen;Singen;63 km;15kVac;Gabarit continental;;
+Singen;Radolfzell;10 km;15kVac;Gabarit continental;;
+Radolfzell;Konstanz;20 km;15kVac;Gabarit continental;;
+Singen;Konstanz;30 km;15kVac;Gabarit continental;;
+St-Germain des Fossés;Gannat;24 km;Non-electrifie;Gabarit continental;;
+Gannat;Riom-Châtel-Guyon;27 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;Riom-Châtel-Guyon;14 km;25kVac;Gabarit continental;;
+St-Germain des Fossés;Riom-Châtel-Guyon;51 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;St-Germain des Fossés;65 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;Vic-le-Comte;18 km;Non-electrifie;Gabarit continental;;
+Vic-le-Comte;Issoire;17 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;Issoire;35 km;Non-electrifie;Gabarit continental;;
+Issoire;Arvant;24 km;Non-electrifie;Gabarit continental;;
+Arvant;Brioude;10 km;Non-electrifie;Gabarit continental;;
+Issoire;Brioude;34 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;Brioude;69 km;Non-electrifie;Gabarit continental;;
+Brioude;St-Georges-d\'Aurac;24 km;Non-electrifie;Gabarit continental;;
+St-Georges-d\'Aurac;Langogne;74 km;Non-electrifie;Gabarit continental;;
+Langogne;La Bastide-St-Laurent-les-Bains;20 km;Non-electrifie;Gabarit continental;;
+Brioude;La Bastide-St-Laurent-les-Bains;117 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;La Bastide-St-Laurent-les-Bains;181 km;Non-electrifie;Gabarit continental;;
+La Bastide-St-Laurent-les-Bains;Génolhac;33 km;Non-electrifie;Gabarit continental;;
+Génolhac;Ste-Cécile-d\'Andorge;13 km;Non-electrifie;Gabarit continental;;
+Ste-Cécile-d\'Andorge;Alès;22 km;Non-electrifie;Gabarit continental;;
+Génolhac;Alès;35 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;Génolhac;214 km;Non-electrifie;Gabarit continental;;
+Clermont-Ferrand;Alès;249 km;Non-electrifie;Gabarit continental;;
+Alès;Nîmes-Courbessac;48 km;Non-electrifie;Gabarit continental;;
+Nîmes;Nîmes-Courbessac;3 km;1.5kVcc;Gabarit continental;;
+Nîmes;Alès;48 km;Non-electrifie;Gabarit continental;;
+Neussargues;St Flour-Chaudes-Aigues;19 km;1.5kVcc;Gabarit continental;;
+St Flour-Chaudes-Aigues;St-Chély-d\'Apcher;37 km;1.5kVcc;Gabarit continental;;
+Neussargues;St-Chély-d\'Apcher;56 km;1.5kVcc;Gabarit continental;;
+St-Chély-d\'Apcher;Marvejols;33 km;1.5kVcc;Gabarit continental;;
+Marvejols;Le Monastier;7 km;1.5kVcc;Gabarit continental;;
+Le Monastier;Sévérac-le-Château;63 km;1.5kVcc;Gabarit continental;;
+St-Chély-d\'Apcher;Sévérac-le-Château;75 km;1.5kVcc;Gabarit continental;;
+Sévérac-le-Château;Millau;30 km;1.5kVcc;Gabarit continental;;
+St-Chély-d\'Apcher;Millau;105 km;1.5kVcc;Gabarit continental;;
+Millau;Tournemire-Roquefort;25 km;1.5kVcc;Gabarit continental;;
+Tournemire-Roquefort;Bédarieux;50 km;1.5kVcc;Gabarit continental;;
+Millau;Bédarieux;75 km;1.5kVcc;Gabarit continental;;
+Béziers;Bédarieux;43 km;1.5kVcc;Gabarit continental;;
+Béziers;Millau;118 km;1.5kVcc;Gabarit continental;;
+Neussargues;Massiac;25 km;Non-electrifie;Gabarit continental;;
+Arvant;Massiac;24 km;Non-electrifie;Gabarit continental;;
+Arvant;Neussargues;49 km;Non-electrifie;Gabarit continental;;
+Avignon-Centre;L\'Isle-Fontaine-de-Vaucluse;23 km;1.5kVcc;Gabarit continental;;
+L\'Isle-Fontaine-de-Vaucluse;Cavaillon;10 km;1.5kVcc;Gabarit continental;;
+Avignon-Centre;Cavaillon;33 km;1.5kVcc;Gabarit continental;;
+Cavaillon;Salon-de-Provence;23 km;1.5kVcc;Gabarit continental;;
+Salon-de-Provence;Miramas;13 km;1.5kVcc;Gabarit continental;;
+Cavaillon;Miramas;36 km;1.5kVcc;Gabarit continental;;
+Avignon-Centre;Miramas;59 km;1.5kVcc;Gabarit continental;via Cavaillon;
+Miramas;Rognac;26 km;1.5kVcc;Gabarit continental;;
+Rognac;Vitrolles-Aéroport-Marseille-Provence;5 km;1.5kVcc;Gabarit continental;;
+Miramas;Vitrolles-Aéroport-Marseille-Provence;31 km;1.5kVcc;Gabarit continental;;
+Vitrolles-Aéroport-Marseille-Provence;L\'Estaque;12 km;1.5kVcc;Gabarit continental;;
+Rognac;L\'Estaque;17 km;1.5kVcc;Gabarit continental;;
+Miramas;L\'Estaque;42 km;1.5kVcc;Gabarit continental;;
+Marseille St Charles;L\'Estaque;10 km;1.5kVcc;Gabarit continental;via PLM;
+Marseille St Charles;Vitrolles-Aéroport-Marseille-Provence;22 km;1.5kVcc;Gabarit continental;;
+Marseille St Charles;Miramas;52 km;1.5kVcc;Gabarit continental;;
+Ventimiglia;Bordighera;5 km;3kVcc;Gabarit continental;;
+Bordighera;Laigueglia;52 km;3kVcc;Gabarit continental;;
+Laigueglia;Finale Ligure Marina;27 km;3kVcc;Gabarit continental;;
+Ventimiglia;Finale Ligure Marina;85 km;3kVcc;Gabarit continental;;
+Finale Ligure Marina;Savona;19 km;3kVcc;Gabarit continental;;
+Savona;Cogoleto;18 km;3kVcc;Gabarit continental;;
+Cogoleto;Genova Voltri;10 km;3kVcc;Gabarit continental;;
+Genova Voltri;Genova Pra;3 km;3kVcc;Gabarit continental;;
+Genova Pra;Genova Sestri Ponente Aeroporto;5 km;3kVcc;Gabarit continental;;
+Genova Sestri Ponente Aeroporto;Genova Sampierdarena;4 km;3kVcc;Gabarit continental;;
+Cogoleto;Genova Sestri Ponente Aeroporto;18 km;3kVcc;Gabarit continental;;
+Genova Sampierdarena;Genova Piazza Principe;3 km;3kVcc;Gabarit continental;;
+Cogoleto;Genova Sampierdarena;22 km;3kVcc;Gabarit continental;;
+Cogoleto;Genova Piazza Principe;24 km;3kVcc;Gabarit continental;;
+Savona;Genova Piazza Principe;42 km;3kVcc;Gabarit continental;;
+Genova Piazza Principe;Genova Brignole;3 km;3kVcc;Gabarit continental;;
+Genova Sampierdarena;Ronco Scrivia;25 km;3kVcc;Gabarit continental;;
+Genova Sestri Ponente Aeroporto;Ronco Scrivia;28 km;3kVcc;Gabarit continental;;
+Genova Piazza Principe;Ronco Scrivia;28 km;3kVcc;Gabarit continental;;
+Ronco Scrivia;Arquata Scrivia;11 km;3kVcc;Gabarit continental;;
+Genova Piazza Principe;Arquata Scrivia;39 km;3kVcc;Gabarit continental;;
+Genova Brignole;Arquata Scrivia;42 km;3kVcc;Gabarit continental;;
+Arquata Scrivia;Tortona;25 km;3kVcc;Gabarit continental;;
+Tortona;Voghera;16 km;3kVcc;Gabarit continental;;
+Voghera;Bressana-Bottarone;31 km;3kVcc;Gabarit continental;;
+Bressana-Bottarone;Pavia;12 km;3kVcc;Gabarit continental;;
+Genova Piazza Principe;Voghera;79 km;3kVcc;Gabarit continental;;
+Voghera;Pavia;25 km;3kVcc;Gabarit continental;;
+Genova Piazza Principe;Pavia;104 km;3kVcc;Gabarit continental;;
+Pavia;Milano Rogoredo;29 km;3kVcc;Gabarit continental;;
+Milano Rogoredo;Milano Lambrate;6 km;3kVcc;Gabarit continental;;
+Pavia;Milano Lambrate;35 km;3kVcc;Gabarit continental;;
+Milano Centrale;Milano Lambrate;3 km;3kVcc;Gabarit continental;;
+Milano Centrale;Pavia;38 km;3kVcc;Gabarit continental;;
+Tortona;Pavia;41 km;3kVcc;Gabarit continental;;
+Nantes;Nantes-État;5 km;25kVac;Gabarit continental;;
+Nantes;Rezé Pont-Rousseau;5 km;Non-electrifie;Gabarit continental;;
+Rezé Pont-Rousseau;Ste Pazanne;24 km;Non-electrifie;Gabarit continental;;
+Nantes;Ste Pazanne;29 km;Non-electrifie;Gabarit continental;;
+Ste Pazanne;St Hilaire de Chaléons;4 km;Non-electrifie;Gabarit continental;;
+St Hilaire de Chaléons;Pornic;26 km;Non-electrifie;Gabarit continental;;
+Ste Pazanne;Pornic;30 km;Non-electrifie;Gabarit continental;;
+Nantes;Pornic;59 km;Non-electrifie;Gabarit continental;;
+Fulda;Hünfeld;17 km;15kVac;Gabarit continental;;
+Hünfeld;Bad Hersfeld;26 km;15kVac;Gabarit continental;;
+Fulda;Bad Hersfeld;43 km;15kVac;Gabarit continental;;
+Bad Hersfeld;Bebra;13 km;15kVac;Gabarit continental;;
+Fulda;Bebra;56 km;15kVac;Gabarit continental;;
+Bebra;Ronshausen;5 km;15kVac;Gabarit continental;;
+Bad Hersfeld;Ronshausen;15 km;15kVac;Gabarit continental;Via Berliner Kurve;
+Ronshausen;Gerstungen;16 km;15kVac;Gabarit continental;;
+Gerstungen;Eisenach West;22 km;15kVac;Gabarit continental;;
+Eisenach West;Eisenach;2 km;15kVac;Gabarit continental;;
+Gerstungen;Eisenach;24 km;15kVac;Gabarit continental;;
+Bebra;Eisenach;45 km;15kVac;Gabarit continental;;
+Bebra;Gerstungen;21 km;15kVac;Gabarit continental;;
+Fulda;Ronshausen;58 km;15kVac;Gabarit continental;Via Berliner Kurve;
+Fulda;Gerstungen;74 km;15kVac;Gabarit continental;;
+Fulda;Eisenach;98 km;15kVac;Gabarit continental;;
+Eisenach;Wutha;5 km;15kVac;Gabarit continental;;
+Wutha;Fröttstädt;13 km;15kVac;Gabarit continental;;
+Eisenach;Fröttstädt;18 km;15kVac;Gabarit continental;;
+Fröttstädt;Gotha;10 km;15kVac;Gabarit continental;;
+Eisenach;Gotha;28 km;15kVac;Gabarit continental;;
+Gerstungen;Gotha;52 km;15kVac;Gabarit continental;;
+Bebra;Gotha;73 km;15kVac;Gabarit continental;;
+Fulda;Gotha;129 km;15kVac;Gabarit continental;;
+Gotha;Seebergen;6 km;15kVac;Gabarit continental;;
+Seebergen;Neudietendorf;9 km;15kVac;Gabarit continental;;
+Gotha;Neudietendorf;15 km;15kVac;Gabarit continental;;
+Neudietendorf;Erfurt Hbf;13 km;15kVac;Gabarit continental;;
+Gotha;Erfurt Hbf;28 km;15kVac;Gabarit continental;;
+Bebra;Erfurt Hbf;101 km;15kVac;Gabarit continental;;
+Erfurt Hbf;Weimar;21 km;15kVac;Gabarit continental;;
+Weimar;Großheringen;29 km;15kVac;Gabarit continental;;
+Großheringen;Naumburg (Saale) Hbf;13 km;15kVac;Gabarit continental;;
+Weimar;Naumburg (Saale) Hbf;42 km;15kVac;Gabarit continental;;
+Naumburg (Saale) Hbf;Weißenfels;14 km;15kVac;Gabarit continental;;
+Weißenfels;Großkorbetha;8 km;15kVac;Gabarit continental;;
+Großkorbetha;Markranstädt;17 km;15kVac;Gabarit continental;;
+Markranstädt;Leipzig-Leutzsch;8 km;15kVac;Gabarit continental;;
+Leipzig-Leutzsch;Leipzig-Gohlis;5 km;15kVac;Gabarit continental;;
+Leipzig-Gohlis;Leipzig Hbf;2 km;15kVac;Gabarit continental;;
+Leipzig-Leutzsch;Leipzig Hbf;7 km;15kVac;Gabarit continental;;
+Großkorbetha;Leipzig Hbf;32 km;15kVac;Gabarit continental;;
+Weißenfels;Leipzig Hbf;40 km;15kVac;Gabarit continental;;
+Naumburg (Saale) Hbf;Leipzig Hbf;54 km;15kVac;Gabarit continental;;
+Weimar;Leipzig Hbf;95 km;15kVac;Gabarit continental;;
+Erfurt Hbf;Leipzig Hbf;117 km;15kVac;Gabarit continental;;
+Gotha;Leipzig Hbf;145 km;15kVac;Gabarit continental;;
+Bebra;Leipzig Hbf;218 km;15kVac;Gabarit continental;;
+Fulda;Leipzig Hbf;274 km;15kVac;Gabarit continental;;
+Leipzig-Gohlis;Leipzig-Wahren;4 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Leipzig-Wahren;6 km;15kVac;Gabarit continental;;
+Leipzig-Wahren;Gröbers;16 km;15kVac;Gabarit continental;;
+Gröbers;Halle (Saale) Hbf;11 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Halle (Saale) Hbf;31 km;15kVac;Gabarit continental;;
+Großkorbetha;Merseburg Hbf;10 km;15kVac;Gabarit continental;;
+Weißenfels;Merseburg Hbf;18 km;15kVac;Gabarit continental;;
+Merseburg Hbf;Halle-Ammendorf;8 km;15kVac;Gabarit continental;;
+Halle (Saale) Hbf;Halle-Ammendorf;6 km;15kVac;Gabarit continental;;
+Halle (Saale) Hbf;Merseburg Hbf;14 km;15kVac;Gabarit continental;;
+Erfurt Hbf;Halle (Saale) Hbf;109 km;15kVac;Gabarit continental;;
+Halle (Saale) Hbf;Bitterfeld;27 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Bitterfeld;58 km;15kVac;Gabarit continental;Via Halle (Saale) Hbf;
+Bitterfeld;Pratau;36 km;15kVac;Gabarit continental;;
+Pratau;Lutherstadt Wittenberg Hbf;3 km;15kVac;Gabarit continental;;
+Halle (Saale) Hbf;Lutherstadt Wittenberg Hbf;67 km;15kVac;Gabarit continental;;
+Lutherstadt Wittenberg Hbf;Jüterbog;32 km;15kVac;Gabarit continental;;
+Jüterbog;Ludwigsfelde;38 km;15kVac;Gabarit continental;;
+Ludwigsfelde;Großbeeren;6 km;15kVac;Gabarit continental;;
+Großbeeren;Teltow;4 km;15kVac;Gabarit continental;;
+Teltow;Berlin-Lichterfelde Süd;3 km;15kVac;Gabarit continental;;
+Berlin-Lichterfelde Süd;Berlin-Lichterfelde Ost;3 km;15kVac;Gabarit continental;Bahnstrecke Berlin–Halle;
+Berlin-Lichterfelde Süd;Berlin-Lichterfelde Ost;3 km;750Vcc 3eme rail;Gabarit continental;Anhalter Vorortbahn;
+Berlin-Lichterfelde Ost;Berlin Priesterweg;4 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin Priesterweg;Berlin Südkreuz;2 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin-Lichterfelde Ost;Berlin Südkreuz;6 km;15kVac;Gabarit continental;Bahnstrecke Berlin–Halle;
+Berlin-Lichterfelde Ost;Berlin Südkreuz;6 km;750Vcc 3eme rail;Gabarit continental;Anhalter Vorortbahn;
+Halle (Saale) Hbf;Berlin Südkreuz;159 km;15kVac;Gabarit continental;;
+Berlin Südkreuz;Berlin Anhalter Bf;4 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin Anhalter Bf;Berlin Potsdamer Platz;1 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin Südkreuz;Berlin Potsdamer Platz;4 km;15kVac;Gabarit continental;Bahnstrecke Berlin–Halle;
+Berlin Südkreuz;Berlin Potsdamer Platz;4 km;750Vcc 3eme rail;Gabarit continental;Berliner Nordsüd S-Bahn;
+Berlin Potsdamer Platz;Berlin Hbf-Lehrter;2 km;15kVac;Gabarit continental;Bahnstrecke Berlin–Halle;
+Berlin Potsdamer Platz;Berlin Hbf-Lehrter;2 km;750Vcc 3eme rail;Gabarit continental;Berliner Nordsüd S-Bahn;
+Berlin Südkreuz;Berlin Hbf-Lehrter;6 km;15kVac;Gabarit continental;Bahnstrecke Berlin–Halle;
+Berlin Südkreuz;Berlin Hbf-Lehrter;6 km;750Vcc 3eme rail;Gabarit continental;Berliner Nordsüd S-Bahn;
+Bitterfeld;Berlin Südkreuz;131 km;15kVac;Gabarit continental;;
+Bitterfeld;Berlin Hbf-Lehrter;137 km;15kVac;Gabarit continental;;
+Halle (Saale) Hbf;Berlin Hbf-Lehrter;165 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Leipzig Nord;3 km;15kVac;Gabarit continental;;
+Leipzig Nord;Leipzig Essener Strasse;1 km;15kVac;Gabarit continental;;
+Leipzig Essener Strasse;Leipzig Messe;2 km;15kVac;Gabarit continental;;
+Leipzig Nord;Leipzig Messe;4 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Leipzig Messe;6 km;15kVac;Gabarit continental;;
+Leipzig Messe;Zschortau;10 km;15kVac;Gabarit continental;;
+Zschortau;Delitzsch unt;5 km;15kVac;Gabarit continental;;
+Bitterfeld;Delitzsch unt;13 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Bitterfeld;34 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Berlin Hbf-Lehrter;171 km;15kVac;Gabarit continental;;
+Berlin Hbf-Lehrter;Berlin Wedding;2 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin Wedding;Berlin Gesundbrunnen;2 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin Hbf-Lehrter;Berlin Gesundbrunnen;4 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Hbf-Lehrter;Berlin Gesundbrunnen;4 km;15kVac;Gabarit continental;Fernbahn;
+Ludwigsfelde;Ludwigsfelde Struveshof;10 km;15kVac;Gabarit continental;;
+Ludwigsfelde Struveshof;Saarmund;6 km;15kVac;Gabarit continental;;
+Saarmund;Potsdam Pirschheide;10 km;15kVac;Gabarit continental;;
+Potsdam Pirschheide;Golm;5 km;15kVac;Gabarit continental;;
+Saarmund;Golm;16 km;15kVac;Gabarit continental;;
+Golm;Priort;12 km;15kVac;Gabarit continental;;
+Priort;Elstal;5 km;15kVac;Gabarit continental;;
+Elstal;Berlin-Staaken;10 km;15kVac;Gabarit continental;;
+Berlin-Staaken;Berlin-Spandau;4 km;15kVac;Gabarit continental;Fernbahn;
+Berlin-Staaken;Berlin-Spandau;4 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Leipzig Hbf;Berlin-Spandau;207 km;15kVac;Gabarit continental;Via Berliner Außenring;
+Culmont-Chalindrey;Dijon-Ville;77 km;1.5kVcc & 25kVac;Gabarit continental;;
+Erfurt Hbf;Berlin-Spandau;326 km;15kVac;Gabarit continental;Via Berliner Außenring;
+Fulda;Berlin-Spandau;480 km;15kVac;Gabarit continental;Via Berliner Außenring;
+Berlin-Spandau;Berlin-Heerstrasse;6 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin-Heerstrasse;Berlin Westkreuz;2 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin Westkreuz;Berlin Charlottenburg;1 km;750Vcc 3eme rail;Gabarit continental;;
+Berlin-Spandau;Berlin Charlottenburg;9 km;15kVac;Gabarit continental;Fernbahn;
+Berlin-Spandau;Berlin Charlottenburg;9 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Fulda;Berlin Charlottenburg;489 km;15kVac;Gabarit continental;Via Berliner Außenring;
+Berlin Charlottenburg;Berlin Zoologischer Garten;2 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Charlottenburg;Berlin Zoologischer Garten;2 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Fulda;Berlin Zoologischer Garten;491 km;15kVac;Gabarit continental;Via Berliner Außenring;
+Berlin Hbf-Lehrter;Berlin Zoologischer Garten;4 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Hbf-Lehrter;Berlin Zoologischer Garten;4 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Hbf-Lehrter;Berlin Friedrichstraße;1 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Hbf-Lehrter;Berlin Friedrichstraße;1 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Friedrichstraße;Berlin Alexanderplatz;2 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Friedrichstraße;Berlin Alexanderplatz;2 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Alexanderplatz;Berlin Ostbahnhof;2 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Alexanderplatz;Berlin Ostbahnhof;2 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Friedrichstraße;Berlin Ostbahnhof;4 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Friedrichstraße;Berlin Ostbahnhof;4 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Zoologischer Garten;Berlin Friedrichstraße;5 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Zoologischer Garten;Berlin Friedrichstraße;5 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Hbf-Lehrter;Berlin Ostbahnhof;5 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Hbf-Lehrter;Berlin Ostbahnhof;5 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Zoologischer Garten;Berlin Ostbahnhof;9 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Zoologischer Garten;Berlin Ostbahnhof;9 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin-Spandau;Berlin Jungfernheide;7 km;15kVac;Gabarit continental;;
+Veynes-Dévoluy;Château-Arnoux-St-Auban;67 km;Non-electrifie;Gabarit continental;;
+Berlin Wedding;Berlin Jungfernheide;5 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Wedding;Berlin Jungfernheide;5 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Ludwigsfelde;Waßmannsdorf;17 km;15kVac;Gabarit continental;;
+Waßmannsdorf;Schönefeld;4 km;15kVac;Gabarit continental;Fernbahn;
+Waßmannsdorf;Schönefeld;4 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Ludwigsfelde;Schönefeld;21 km;15kVac;Gabarit continental;;
+Waßmannsdorf;BER Flughafen;4 km;750Vcc 3eme rail;Gabarit continental;;
+Schönefeld;BER Flughafen;8 km;750Vcc 3eme rail;Gabarit continental;;
+Ludwigsfelde;BER Flughafen;21 km;15kVac;Gabarit continental;;
+BER Flughafen;Berlin Grünau;10 km;15kVac;Gabarit continental;;
+Berlin Grünau;Berlin-Karlshorst;9 km;15kVac;Gabarit continental;;
+Schönefeld;Berlin-Karlshorst;12 km;15kVac;Gabarit continental;;
+Berlin-Karlshorst;Berlin Ostkreuz;5 km;15kVac;Gabarit continental;Fernbahn;
+Berlin-Karlshorst;Berlin Ostkreuz;5 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+BER Flughafen;Berlin Ostkreuz;23 km;15kVac;Gabarit continental;;
+Berlin Ostkreuz;Berlin Warschauer Straße;1 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Ostkreuz;Berlin Warschauer Straße;1 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Ostbahnhof;Berlin Warschauer Straße;1 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Ostbahnhof;Berlin Warschauer Straße;1 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Ostbahnhof;Berlin Ostkreuz;2 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Ostbahnhof;Berlin Ostkreuz;2 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Berlin Ostbahnhof;BER Flughafen;23 km;15kVac;Gabarit continental;Fernbahn;
+Berlin Ostbahnhof;BER Flughafen;23 km;750Vcc 3eme rail;Gabarit continental;S-Bahn;
+Bitterfeld;Berlin Ostbahnhof;151 km;15kVac;Gabarit continental;;
+Halle (Saale) Hbf;Berlin Ostbahnhof;178 km;15kVac;Gabarit continental;;
+Leipzig Hbf;Berlin Ostbahnhof;185 km;15kVac;Gabarit continental;;
+Moirans;St Marcellin;31 km;25kVac;Gabarit continental;;
+Grenoble;St Marcellin;49 km;25kVac;Gabarit continental;;
+St Marcellin;Romans - Bourg-de-Péage;19 km;25kVac;Gabarit continental;;
+Romans - Bourg-de-Péage;Valence TGV;9 km;25kVac;Gabarit continental;;
+Valence-Ville;Valence TGV;11 km;1.5kVcc & 25kVac;Gabarit continental;;
+Valence-Ville;Romans - Bourg-de-Péage;18 km;1.5kVcc & 25kVac;Gabarit continental;;
+Valence-Ville;Grenoble;106 km;1.5kVcc & 25kVac;Gabarit continental;;
+Marseille St Charles;Gardanne;25 km;Non-electrifie;Gabarit continental;;
+Aix-en-Provence;Gardanne;11 km;Non-electrifie;Gabarit continental;;
+Meyrargues;Aix-en-Provence;26 km;Non-electrifie;Gabarit continental;;
+Pertuis;Meyrargues;7 km;Non-electrifie;Gabarit continental;;
+Château-Arnoux-St-Auban;Meyrargues;67 km;Non-electrifie;Gabarit continental;;
+Château-Arnoux-St-Auban;Pertuis;68 km;Non-electrifie;Gabarit continental;;
+Marseille St Charles;Aix-en-Provence;36 km;Non-electrifie;Gabarit continental;;
+Bastia;Ponte-Leccia;46 km;Non-electrifie;Ecartement metrique;;
+Ponte-Leccia;Corte;27 km;Non-electrifie;Ecartement metrique;;
+Corte;Ajaccio;84 km;Non-electrifie;Ecartement metrique;;
+Ponte-Leccia;L\'île-Rousse;51 km;Non-electrifie;Ecartement metrique;;
+L\'île-Rousse;Calvi;22 km;Non-electrifie;Ecartement metrique;;
+Bastia;Corte;74 km;Non-electrifie;Ecartement metrique;;
+Ponte-Leccia;Calvi;73 km;Non-electrifie;Ecartement metrique;;
+Nice Sud-CP;Colomars;13 km;Non-electrifie;Ecartement metrique;;
+Colomars;La Vésubie–Plan-du-Var;11 km;Non-electrifie;Ecartement metrique;;
+La Vésubie–Plan-du-Var;Annot;53 km;Non-electrifie;Ecartement metrique;;
+Annot;St-André-les-Alpes;28 km;Non-electrifie;Ecartement metrique;;
+St-André-les-Alpes;Digne;44 km;Non-electrifie;Ecartement metrique;;
+Nice Sud-CP;Annot;78 km;Non-electrifie;Ecartement metrique;;
+Annot;Digne;72 km;Non-electrifie;Ecartement metrique;;
+Nice Sud-CP;St-André-les-Alpes;106 km;Non-electrifie;Ecartement metrique;;
+Nice Sud-CP;Digne;150 km;Non-electrifie;Ecartement metrique;;
+Paris Gare de Lyon;Paris Nord;14 km;Non-electrifie;Gabarit continental;Par la Petite Ceinture;
+St Hilaire de Chaléons;Paimbœuf;27 km;Non-electrifie;Gabarit continental;;
+Nancy-Ville;Champigneulles;5 km;25kVac;Gabarit continental;;
+Champigneulles;Frouard;3 km;25kVac;Gabarit continental;;
+Nancy-Ville;Frouard;8 km;25kVac;Gabarit continental;;
+Frouard;Toul;25 km;25kVac;Gabarit continental;;
+Nancy-Ville;Toul;33 km;25kVac;Gabarit continental;;
+Toul;Neufchâteau;43 km;25kVac;Gabarit continental;;
+Neufchâteau;Merrey;40 km;25kVac;Gabarit continental;;
+Culmont-Chalindrey;Merrey;35 km;25kVac;Gabarit continental;;
+Culmont-Chalindrey;Toul;118 km;25kVac;Gabarit continental;;
+Culmont-Chalindrey;Nancy-Ville;151 km;25kVac;Gabarit continental;;
+Culmont-Chalindrey;Is-sur-Tille;44 km;25kVac;Gabarit continental;;
+Is-sur-Tille;Dijon-Porte-Neuve;25 km;1.5kVcc & 25kVac;Gabarit continental;;
+Dijon-Ville;Dijon-Porte-Neuve;8 km;1.5kVcc;Gabarit continental;;
+Dijon-Ville;Is-sur-Tille;33 km;1.5kVcc & 25kVac;Gabarit continental;;
+Dijon-Ville;Nancy-Ville;228 km;1.5kVcc & 25kVac;Gabarit continental;;
+Luxembourg;Dommeldange;4 km;25kVac;Gabarit continental;;
+Dommeldange;Schieren;24 km;25kVac;Gabarit continental;;
+Schieren;Ettelbruck;2 km;25kVac;Gabarit continental;;
+Luxembourg;Ettelbruck;31 km;25kVac;Gabarit continental;;
+Ettelbruck;Kautenbach;15 km;25kVac;Gabarit continental;;
+Kautenbach;Wiltz;9 km;25kVac;Gabarit continental;;
+Kautenbach;Troisvierges;24 km;25kVac;Gabarit continental;;
+Ettelbruck;Troisvierges;38 km;25kVac;Gabarit continental;;
+Luxembourg;Troisvierges;69 km;25kVac;Gabarit continental;;
+Troisvierges;Gouvy;10 km;25kVac;Gabarit continental;;
+Paris St-Lazare;Évreux-Normandie;107 km;25kVac;Gabarit continental;;
+Bordeaux St-Jean;Paris Montparnasse;569 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV Atlantique et ligne classique;
+Paris Nord;London Waterloo;578 km;750Vcc 3eme rail & 25kVac & Aptitude tunnel sous la Manche;Gabarit britannique;(Par LGV);
+Bruxelles-Midi;London Waterloo;436 km;750Vcc 3eme rail & 3kVcc & 25kVac & Aptitude tunnel sous la Manche;Gabarit britannique;(Par LGV);
+Paris Nord;London St Pancras;492 km;25kVac & Aptitude tunnel sous la Manche;Gabarit continental;(Par LGV);
+Lille-Europe;London St Pancras;264 km;25kVac & Aptitude tunnel sous la Manche;Gabarit continental;(Par LGV);
+Lille-Europe;Calais-Fréthun;101 km;25kVac;Gabarit continental;(Par LGV);
+Paris Gare de Lyon;Genève-Cornavin;603 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Lille-Europe;Dunkerque;80 km;25kVac;Gabarit continental;(Par LGV);
+Paris Montparnasse;Le Mans;202 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Lyon Perrache;Marseille St Charles;321 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Bordeaux St-Jean;Paris Montparnasse;555 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV Océane;X
+Paris Montparnasse;St Pierre des Corps;213 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Massy;Marne-la-Vallée - Chessy;46 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Marne-la-Vallée - Chessy;Aéroport Charles de Gaulle;24 km;25kVac;Gabarit continental;(Par LGV);
+Massy;St Pierre des Corps;201 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Lille-Europe;Aéroport Charles de Gaulle;224 km;25kVac;Gabarit continental;(Par LGV);X
+Paris Gare de Lyon;Marseille St Charles;747 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Bordeaux St-Jean;St Pierre des Corps;342 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Paris Montparnasse;Tours;217 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Paris Gare de Lyon;Lyon Perrache;443 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Paris Nord;Lille Flandres;228 km;25kVac;Gabarit continental;(Par LGV);
+Paris Nord;Lille-Europe;228 km;25kVac;Gabarit continental;(Par LGV);
+Paris Nord;Bruxelles-Midi;316 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Paris Est;Strasbourg-Ville;406 km;25kVac;Gabarit continental;(Par LGV);X
+Bruxelles-Midi;Amsterdam Centraal;199 km;1.5kVcc & 3kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Bordeaux St-Jean;Massy;555 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV Atlantique et ligne classique;
+Bordeaux St-Jean;Massy;541 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV Océane;
+Karlsruhe Hbf;Mannheim Hbf;60 km;15kVac;Gabarit continental;(Par LGV);
+Paris Gare de Lyon;Dijon-Ville;263 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Dijon-Ville;Besançon Franche-Comté TGV;77 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Paris Gare de Lyon;Lyon Part-Dieu;408 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Marne-la-Vallée - Chessy;Lyon Part-Dieu;392 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Marne-la-Vallée - Chessy;Lyon St Exupéry;393 km;25kVac;Gabarit continental;(Par LGV);
+Leuven;Liège-Guillemins;71 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Bruxelles-Nord;Liège-Guillemins;100 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Bruxelles-Midi;Liège-Guillemins;104 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Rotterdam Centraal;Schiphol Airport;53 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Amsterdam Centraal;Rotterdam Centraal;70 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+London St Pancras;Ebbsfleet International;37 km;25kVac;Gabarit continental;(Par LGV);
+Ebbsfleet International;Ashford;54 km;25kVac;Gabarit continental;(Par LGV);
+Karlsruhe Hbf;Stuttgart Hbf;81 km;15kVac;Gabarit continental;(Par LGV);
+Mannheim Hbf;Stuttgart Hbf;107 km;15kVac;Gabarit continental;(Par LGV);
+Freiburg am Breisgau Hbf;Basel Bad Bf;58 km;15kVac;Gabarit continental;(Par LGV);
+Basel Bad Bf;Müllheim;29 km;15kVac;Gabarit continental;(Par LGV);
+Bordeaux St-Jean;Angoulême;114 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Bordeaux St-Jean;Poitiers;223 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Frankfurt am Main Flughafen;Mainz Hbf;24 km;15kVac;Gabarit continental;(Par LGV);
+Paris Montparnasse;Toulouse-Matabiau;811 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV Océane, sans arrêt à Bordeaux St Jean;
+Perpignan;Figueras - Vilafant;51 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Figueras - Vilafant;Girona;35 km;25kVac;Gabarit continental;(Par LGV);
+Aéroport Charles de Gaulle;Tourcoing;207 km;25kVac;Gabarit continental;(Par LGV);
+Paris Est;Champagne-Ardenne TGV;136 km;25kVac;Gabarit continental;(Par LGV);
+Paris Est;Reims;145 km;25kVac;Gabarit continental;(Par LGV);
+Paris Est;Châlons-en-Champagne;186 km;25kVac;Gabarit continental;(Par LGV);
+Châlons-en-Champagne;Champagne-Ardenne TGV;50 km;25kVac;Gabarit continental;(Par LGV);
+Paris Est;Nancy-Ville;329 km;25kVac;Gabarit continental;(Par LGV);
+Paris Est;Metz-Ville;314 km;25kVac;Gabarit continental;(Par LGV);
+Marne-la-Vallée - Chessy;Nancy-Ville;307 km;25kVac;Gabarit continental;(Par LGV);
+Aéroport Charles de Gaulle;Nancy-Ville;308 km;25kVac;Gabarit continental;(Par LGV);
+Marne-la-Vallée - Chessy;Metz-Ville;292 km;25kVac;Gabarit continental;(Par LGV);
+Aéroport Charles de Gaulle;Metz-Ville;293 km;25kVac;Gabarit continental;(Par LGV);
+Strasbourg-Ville;Marne-la-Vallée - Chessy;384 km;25kVac;Gabarit continental;(Par LGV);
+Strasbourg-Ville;Aéroport Charles de Gaulle;385 km;25kVac;Gabarit continental;(Par LGV);
+Köln-Bonn Flughafen;Montabaur;67 km;15kVac;Gabarit continental;(Par LGV);
+Frankfurt am Main Flughafen;Montabaur;80 km;15kVac;Gabarit continental;(Par LGV);
+Frankfurt am Main Hbf;Montabaur;92 km;15kVac;Gabarit continental;(Par LGV);
+Köln Hbf;Montabaur;82 km;15kVac;Gabarit continental;(Par LGV);
+Frankfurt am Main Flughafen;Köln Hbf;162 km;15kVac;Gabarit continental;(Par LGV);
+Frankfurt am Main Hbf;Köln Hbf;174 km;15kVac;Gabarit continental;(Par LGV);
+Laval;Rennes;73 km;25kVac;Gabarit continental;(Par LGV);X
+Rennes;Sablé-sur-Sarthe;125 km;25kVac;Gabarit continental;(Par LGV);
+Laval;Sablé-sur-Sarthe;68 km;25kVac;Gabarit continental;(Par LGV);X
+Le Mans;Rennes;170 km;25kVac;Gabarit continental;(Par LGV);
+Le Mans;Sablé-sur-Sarthe;50 km;25kVac;Gabarit continental;(Par LGV);X
+Massy;Rennes;418 km;25kVac;Gabarit continental;(Par LGV);
+Paris Montparnasse;Rennes;432 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV BPL;
+Massy;Le Mans;188 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Paris Montparnasse;Rennes;347 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV Atlantique et ligne classique;
+Massy;Rennes;333 km;1.5kVcc & 25kVac;Gabarit continental;Par LGV Atlantique et ligne classique;
+Liège-Guillemins;Aachen Hbf;49 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Paris Gare de Lyon;Le Creusot TGV;310 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Le Creusot TGV;Mâcon TGV;60 km;25kVac;Gabarit continental;(Par LGV);X
+Paris Gare de Lyon;Mâcon TGV;370 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Lyon Part-Dieu;Mâcon TGV;65 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Lyon St Exupéry;Mâcon TGV;76 km;25kVac;Gabarit continental;(Par LGV);
+Paris Gare de Lyon;Lyon St Exupéry;446 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Lille-Europe;Marne-la-Vallée - Chessy;248 km;25kVac;Gabarit continental;(Par LGV);
+Marne-la-Vallée - Chessy;Le Creusot TGV;309 km;25kVac;Gabarit continental;(Par LGV);X
+Folkestone;Ashford;21 km;25kVac;Gabarit continental;(Par LGV);
+Calais-Fréthun;Ashford;73 km;25kVac & Aptitude tunnel sous la Manche;Gabarit continental;(Par LGV);
+Lille-Europe;Ashford;174 km;25kVac & Aptitude tunnel sous la Manche;Gabarit continental;(Par LGV);
+London St Pancras;Ashford;91 km;25kVac;Gabarit continental;(Par LGV);
+Marne-la-Vallée - Chessy;Ashford;422 km;25kVac & Aptitude tunnel sous la Manche;Gabarit continental;(Par LGV);
+Pont-de-Veyle;Mâcon TGV;10 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Bourg-en-Bresse;Mâcon TGV;39 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);X
+Lyon Part-Dieu;Mâcon;72 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Crèches-sur-Saône;Mâcon TGV;4 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Villefranche-sur-Saône;Mâcon TGV;34 km;1.5kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Stura;Bianzè;39 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Susa;Bianzè;46 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Nuova;Bianzè;51 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Susa;Santhià;54 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Nuova;Santhià;59 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Susa;Vercelli;73 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Nuova;Vercelli;78 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Stura;Novara;89 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Susa;Novara;96 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Nuova;Novara;101 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Stura;Rho Fiera;124 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Susa;Rho Fiera;131 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Nuova;Rho Fiera;136 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Susa;Milano Porta Garibaldi;140 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Susa;Milano Centrale;143 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Nuova;Milano Porta Garibaldi;145 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Torino Porta Nuova;Milano Centrale;148 km;3kVcc & 25kVac;Gabarit continental;(Par LGV);
+Aschaffenburg Hbf;Würzburg Hbf;79 km;15kVac;Gabarit continental;(Par LGV);
+Hanau;Würzburg Hbf;102 km;15kVac;Gabarit continental;(Par LGV);
+Frankfurt am Main Hbf;Würzburg Hbf;125 km;15kVac;Gabarit continental;(Par LGV);
+Fulda;Würzburg Hbf;93 km;15kVac;Gabarit continental;(Par LGV);
